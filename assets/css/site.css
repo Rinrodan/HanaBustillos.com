@@ -1,0 +1,65 @@
+/* Custom Styles */
+:root {
+  --fontFamily: "Cormorant";
+}
+
+body {
+  font-family: "Cormorant";
+  /* font-family: 'Ysabeau Office', sans-serif; */
+}
+
+/* Fonts */
+
+/* Cormorant-300 */
+@font-face {
+  font-family: "Cormorant";
+  font-style: normal;
+  font-weight: 300;
+  src: "./static/fonts/Cormorant-Light.ttf";
+}
+/* Cormorant-500  */
+@font-face {
+  font-family: "Cormorant";
+  font-style: normal;
+  font-weight: 500;
+  src: "./static/fonts/Cormorant-Medium.ttf"; 
+}
+/* Cormorant-700 */
+@font-face {
+  font-family: "Cormorant";
+  font-style: normal;
+  font-weight: 700;
+  src: url"./static/fonts/Cormorant-Bold.ttf"; 
+
+}
+
+/*
+font-family: 'Cormorant', serif;
+https://fonts.googleapis.com/css2?family=Ysabeau+Office:wght@700&display=swap
+
+font-family: 'Ysabeau Office', sans-serif;
+src: url("https://fonts.googleapis.com/css2?family=Ysabeau+Office:wght@300&display=swap");
+
+
+@font-face {
+  font-family: 'Ysabeau Office';
+  font-style: normal;
+  font-weight: 300;
+  src: url("https://fonts.googleapis.com/css2?family=Ysabeau+Office:wght@300&display=swap"); 
+}
+
+@font-face {
+  font-family: "Cormorant";
+  font-style: normal;
+  font-weight: 500;
+  src: url("https://fonts.googleapis.com/css2?family=Ysabeau+Office:wght@500&display=swap"); 
+}
+
+@font-face {
+  font-family: "Cormorant";
+  font-style: normal;
+  font-weight: 700;
+  src: url("https://fonts.googleapis.com/css2?family=Ysabeau+Office:wght@700&display=swap");
+}  
+  */
+
