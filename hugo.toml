@@ -2,7 +2,7 @@ baseurl = "hanabustillos.com"
 metaDataFormat = "yaml"
 title = "HanaBustillos.com"
 theme = "blist"
-hugo = "/hugo.png"
+
 
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true
