@@ -108,8 +108,6 @@ The website banner says it best: __I am here to tell you that even on your worst
 &nbsp;&nbsp; In 2020, like a lot of parents, I was feeling pretty stressed and inadequate.  Even after my children returned to daycare, it was so inconsistent.  We muddled through, but I never felt prepared, I never felt like it was something I could handle without a problem.  I felt like I didn’t know what to do with my kids to give them meaningful, educational, and enriching experiences at home, on top of the practical needs of day-to-day life.  I’m being very honest with my feelings here, but please also hear that I say this from a position of immense privilege - my husband is active duty military, so we have a stable income whether or not I’m working, as well as very affordable child care, and health insurance that covers almost all the important stuff cost-free. 
 
 <br>
-{{< figure src="/images/romanssunbeam2.jpg" class="rounded" width="800">}}
-<sup>[Photo by Erkam Hayta:](https://www.pexels.com/photo/narrow-street-in-city-residential-district-in-morning-6460856/)</sup>
 
 ## Wait, This Isn't One of My Gifts
 
