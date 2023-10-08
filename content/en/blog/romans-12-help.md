@@ -1,26 +1,17 @@
 ---
 title: "Help, Thanks, Wow"
-publishDate: "2022-11-08 11:39"
+publishDate: "2023-2-21 11:39"
 draft: false
 author: Hana Bustillos
-tags: [prayer]
-keywords:
-  - overcome evil with good
-  - Anne Lamot 
+tags: ["prayer", "overcome evil with good","Anne Lamot"]
 thumbnail: /images/romans12bed.jpg
-snippet: “A prayer based on Romans 12”
-image: {
-  src: "https://images.pexels.com/photos/3975640/pexels-photo-3975640.jpeg",
-  alt: "photo of person holding cup",
-  link: "https://www.pexels.com/photo/crop-mother-and-daughter-using-laptop-and-drawing-3975640/"
-}
+description: “A prayer based on Romans 12”
 toc: true
-summary: 
+summary: "I call this a “Help, Thanks, Wow” prayer, based on Anne Lamot’s Book of the same name, which posits that those are the three essential prayers."
 ---
 [Photo by Tatiana Syrikova from Pexels:](https://www.pexels.com/photo/crop-mother-and-daughter-using-laptop-and-drawing-3975640/)
-[![laptop on bed](https://www.pexels.com/photo/crop-mother-and-daughter-using-laptop-and-drawing-3975640.jpeg)](https://www.pexels.com/photo/crop-mother-and-daughter-using-laptop-and-drawing-3975640/)
 
-
+---
 
 &nbsp;&nbsp; I call this a “Help, Thanks, Wow” prayer, based on Anne Lamot’s Book of the same name, which posits that those are the three essential prayers.  Romans 12 is so rich in reminders of both God’s unconditional love and God’s will for us to always strive for better.  But - not better as the world sees it.  Not better as in, you are only a perfect mother if you (fill in the blank with whatever instagram is telling you - have an unmedicated birth, discipline a certain way, only eat certain foods, lose all the baby weight in a prescribed amount of time, whatever).  We are not to be “conformed to this age, but be transformed” by following what God wants for us.  And then it lays it out -  don’t think of yourself as better, recognize others’ gifts, love one another, show each other honor, be patient, pray, be hospitable, be compassionate, bless others and don’t worry about vengeance.
 
