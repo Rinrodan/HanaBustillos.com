@@ -129,7 +129,7 @@ The website banner says it best: __I am here to tell you that even on your worst
 
 <br>
 {{< figure src="/images/romanssunbeam2.jpg" class="rounded" width="800">}}
-<sup>[Photo by Erkam Hayta:](https://www.pexels.com/photo/narrow-street-in-city-residential-district-in-morning-6460856/)</sup>
+[Photo by Erkam Hayta:](https://www.pexels.com/photo/narrow-street-in-city-residential-district-in-morning-6460856/)
 
 ## God’s Love
 &nbsp;&nbsp; This blog exists as a reminder to all moms (and parents, for that matter), that you are good at your job.  You don’t have to be perfect.  You don’t have to be especially “gifted” at whatever it is that you think makes a good mom.  After all, the gifts I see in myself (being nurturing, analytical, a planner, and hyperfocusing), are all things that are great in some situations, not great in others.  
