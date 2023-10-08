@@ -1,23 +1,24 @@
 ---
 title: "Help, Thanks, Wow"
-date: 2023-03-01T09:16:21-07:00
+publishDate: "2022-11-08 11:39"
 draft: false
 author: Hana Bustillos
-tags:
-  - prayer
-  - 
+tags: [prayer]
 keywords:
   - overcome evil with good
   - Anne Lamot 
-
 thumbnail: /images/romans12bed.jpg
-description: “A prayer based on Romans 12”
+snippet: “A prayer based on Romans 12”
+image: {
+  src: "https://images.pexels.com/photos/3975640/pexels-photo-3975640.jpeg",
+  alt: "photo of person holding cup",
+  link: "https://www.pexels.com/photo/crop-mother-and-daughter-using-laptop-and-drawing-3975640/"
+}
 toc: true
 summary: 
 ---
 [Photo by Tatiana Syrikova from Pexels:](https://www.pexels.com/photo/crop-mother-and-daughter-using-laptop-and-drawing-3975640/)
-
---- 
+[![laptop on bed](https://www.pexels.com/photo/crop-mother-and-daughter-using-laptop-and-drawing-3975640.jpeg)](https://www.pexels.com/photo/crop-mother-and-daughter-using-laptop-and-drawing-3975640/)
 
 
 
