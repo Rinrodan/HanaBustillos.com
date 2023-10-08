@@ -5,7 +5,7 @@ date: 2023-04-25
 draft: false
 description: "A series of lighthearted observations of the joyous moments that make it all worth it. "
 tags: ["lighhearted", "happy mom", "Joys of Motherhood"]
-thumbnail: /giraffe.webp
+thumbnail: /images/giraffe.webp
 summary: "Motherhood comes with its share of struggles, and obviously that makes up most of my content.  However, it also comes with its share of joys, and most of the time, the joys outweigh the struggles with no contest.  This series is a little respite from the “hard stuff” that I write about."
 ---
 [Photo by energepic.com from Pexels:]( https://www.pexels.com/photo/person-feeding-giraffe-3839115/)
