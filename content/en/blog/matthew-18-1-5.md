@@ -5,7 +5,7 @@ date: 2023-05-05
 draft: false
 description: "Seeing the world through a child’s eyes"
 tags: ["Empathy", “Motherhood”, “God’s Endless Patience”]
-thumbnail: /images/mother-hugging-daughter
+thumbnail: /images/mother-hugging-daughter.webp
 summary: "Truly I tell you, unless you change and become like little children, you will never enter the kingdom of heaven."
 ---
 [Photo by Lawilson Feitosa:]( https://www.pexels.com/photo/mother-hugging-daughter-15971620/ )
