@@ -2,6 +2,7 @@ baseurl = "hanabustillos.com"
 metaDataFormat = "yaml"
 title = "HanaBustillos.com"
 theme = "blist"
+googleAnalytics = "AW-10962547353"
 
 
 DefaultContentLanguage = "en"
