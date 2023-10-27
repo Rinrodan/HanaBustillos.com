@@ -115,6 +115,6 @@ I am a stay-at-home mom of three (5, 3, and an infant).  I am a military spouse 
 <!-- This is commented out. -->
 
 
-[romans8-38]: /en/blog/romans-8-38-39/ "From the love of God"
-[mothers-day]: /en/blog/mothers-day-prayer/ "A prayer for all Moms"
-[whythisblog]: /en/blog/why-starting/ "Heres why"
+[romans8-38]: /blog/romans-8-38-39/ "From the love of God"
+[mothers-day]: /blog/mothers-day-prayer/ "A prayer for all Moms"
+[whythisblog]: /blog/why-starting/ "Heres why"
