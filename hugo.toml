@@ -6,7 +6,7 @@ googleAnalytics = "AW-10962547353"
 
 
 DefaultContentLanguage = "en"
-DefaultContentLanguageInSubdir = true
+DefaultContentLanguageInSubdir = false
 [languages]
   [languages.en]
     contentDir = "content/" #English
