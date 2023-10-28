@@ -3,7 +3,7 @@ author: Hana Bustillos
 title: "Don't Feel Qualified to be a Mom You're in Good Company"
 date: 2023-07-02
 draft: false
-description: "God chooses people who feels unprepared, if you feel unprepared to be a good mother... thats okay."
+description: "God chooses people who feel unprepared, if you feel unprepared to be a good mother... that's okay."
 tags: ["motherhood", "love", "Christian Parenting", "Timothy Letters", "ready to be a mother", "example for my kids"]
 thumbnail: /images/timothyLetters1.webp
 summary: "Motherhood is a beautiful and challenging journey that can leave many women feeling unprepared. However, the Bible is full of stories of God choosing people who felt unqualified for the task at hand."
