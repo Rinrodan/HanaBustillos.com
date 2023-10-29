@@ -24,7 +24,7 @@ summary: "Motherhood is a beautiful and challenging journey that can leave many 
 
 &nbsp; &nbsp; In Paul’s letters, he often makes these kinds of remarks - pointing out that he is perhaps the least qualified guy for the job he has been given.  Yet we have a huge chunk of the Bible that shows us how passionate, relentless, and enthusiastic Paul was about the task God had assigned to him.
 
-{{< figure src="/images/timothy1Jogger.webp" alt="Jogger out of breath with her trainer" attr="Photo by Julia Larson" attrlink="https://www.pexels.com/photo/exhausted-black-woman-with-trainer-on-snowy-road-6455628/" width="50%" height="auto" >}}
+{{< figure src="/images/timothyLetters1Jogger.webp" alt="Jogger out of breath with her trainer" attr="Photo by Julia Larson" attrlink="https://www.pexels.com/photo/exhausted-black-woman-with-trainer-on-snowy-road-6455628/" width="50%" height="auto" >}}
 
 &nbsp; &nbsp; On days where you’re struggling, it’s important to remember that the job you are doing is hard.  It’s large-scale, multi-year, comprehensive work.  It’s complicated.  You may not feel qualified to do parts of it, and that’s okay.
 
