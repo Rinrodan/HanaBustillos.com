@@ -13,6 +13,8 @@ summary: "Motherhood is a beautiful and challenging journey that can leave many 
 [Photo by RDNE Stock project:][RDNE]
 
 ---
+> "I am grateful to Christ Jesus our Lord, who has strengthened me, because he considered me faithful and appointed me to his service, even though I was formerly a blasphemer, a persecutor, and a man of violence."
+[1 Timothy 1:12-13][1 Timothy 1:12-13]
 
 > "I am grateful to Christ Jesus our Lord, who has strengthened me, because he considered me faithful and appointed me to his service, even though I was formerly a blasphemer, a persecutor, and a man of violence."
 [1 Timothy 1:12-13][1 Timothy 1:12-13]
