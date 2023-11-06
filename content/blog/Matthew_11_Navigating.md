@@ -1,11 +1,11 @@
 ---
 author: Hana Bustillos
 title: "Navigating New Motherhood: The Unspoken Resentment"
-date: 2023-8-15
+date: 2023-08-15
 draft: false
 description: "Explore the feelings of resentment that often accompany the transition to motherhood and why it’s essential to address them openly."
 tags: ["matthew", “sacrifice”,  “Motherhood”, "Christian Parenting", "Navigating Motherhood"]
-image: /images/matthewEleven.webp
+image: /images/matthewElevenResentment.webp
 summary: "Mothers live in and through moments of strong emotions, both positive and negative.  It’s common for mothers to grapple with resentment, a constant feeling of imbalance, and the weight of unmet needs. In our vulnerability, we find solace in knowing that God, in His boundless compassion, doesn’t judge us for these emotions. He holds our deepest feelings, offering comfort,  understanding, and peace."
 ---
 

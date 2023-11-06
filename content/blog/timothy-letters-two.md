@@ -5,7 +5,7 @@ date: 2023-08-13
 draft: false
 description: "We are our children's first example of what a relationship with God looks like."
 tags: ["motherhood", "love", "Christian Parenting", "Timothy Letters", "admitting when we are wrong", "example for my kids"]
-thumbnail: /images/timothyLettersTwo.webp
+thumbnail: /images/timothyLetterTwo.webp
 summary: "Just as Paul was “foremost” in the early church - the one who was displaying his life as an example to others, as mothers, we are often foremost in our child’s life."
 
 ---
