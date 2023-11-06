@@ -14,7 +14,8 @@ summary: "Just as Paul was “foremost” in the early church - the one who was 
 
 ---
 
-> “But for that very reason I received mercy, so that in me, as the foremost, Jesus Christ might display the utmost patience as an example to those who would come to believe in him for eternal life.”
+> But for that very reason I received mercy, so that in me, as the foremost, Jesus Christ might display the utmost patience as an example to those who would come to believe in him for eternal life.
+
 [1 Timothy 1:16][1 Timothy 1:16]
 
 &nbsp; &nbsp; Just as Paul was “foremost” in the early church - the one who was displaying his life as an example to others, as mothers, we are often foremost in our child’s life. This is true in the early years and later on.  Even when they get older and start finding (and pushing for) more independence from us, our influence on them can not be overstated.

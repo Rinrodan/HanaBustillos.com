@@ -15,7 +15,8 @@ summary: "Motherhood is a beautiful and challenging journey that can leave many 
 ---
 
 
-> "I am grateful to Christ Jesus our Lord, who has strengthened me, because he considered me faithful and appointed me to his service, even though I was formerly a blasphemer, a persecutor, and a man of violence."
+> I am grateful to Christ Jesus our Lord, who has strengthened me, because he considered me faithful and appointed me to his service, even though I was formerly a blasphemer, a persecutor, and a man of violence.
+
 [1 Timothy 1:12-13][1 Timothy 1:12-13]
 
 ## Who Said I was Qualified for this?
@@ -36,11 +37,14 @@ summary: "Motherhood is a beautiful and challenging journey that can leave many 
 
 &nbsp; &nbsp; It’s also important to remember that, just like Paul, you have been appointed by God as the mother of your children.  This is a calling specific to you and your family, and that is a good thing.  You will have hard days, months, and years, but God is always with you on the journey.
 
-|    | Blog Series: Timothy Letters                                                                |
+---
+
+|    | [Blog Series: Timothy Letters][seriesTimothyLetters]                                       |
 |:-- |:------------------------------------------------------------------------------------------ |
 | 2  | [Modeling a Relationship with God for Our Children][timL2] |
-| 1  | "Don't Feel Qualified to be a Mom You're in Good Company"                                   |
+| 1  | "Don't Feel Qualified to be a Mom You're in Good Company"            {{< figure src="/images/location-icon.svg" alt="location icon"  width="50px" height="auto" >}}                       |
 
 [1 Timothy 1:12-13]: “https://www.biblegateway.com/passage/?search=1%20Timothy%201%3A12-13&version=NRSVA”
 [RDNE]: "https://www.pexels.com/photo/a-baby-getting-a-bath-6849421/"
+[seriesTimothyLetters]: /tags/timothy-letters/
 [TIML2]: /blog/timothy-letters-two/
