@@ -1,7 +1,7 @@
 ---
 author: Hana Bustillos
 title: "Modeling a Relationship with God for Our Children"
-date: 2023-08-13
+date: 2023-10-01
 draft: false
 description: "We are our children's first example of what a relationship with God looks like."
 tags: ["motherhood", "love", "Christian Parenting", "Timothy Letters", "admitting when we are wrong", "example for my kids"]
@@ -29,5 +29,15 @@ summary: "Just as Paul was “foremost” in the early church - the one who was 
 
 &nbsp; &nbsp; Of course it’s not just the good stuff.  It also means apologizing when we make mistakes, owning up to failures, and showing them that we are also flawed humans who need forgiveness.  That even when we make big mistakes, God still loves us.  As mothers, we are given the opportunity to use our lives just by living them, as a way to show God’s love.
 
+---
+
+|    | Blog Series: Timothy Letters                                                                      |
+|:-- |:------------------------------------------------------------------------------------------------- |
+| 2  | Modeling a Relationship with God for Our Children                                                 |
+| 1  | [Don\'t Feel Qualified to be a Mom You\'re in Good Company][timL1] |
+|    |                                                                                                   |
+
 [1 Timothy 1:16]: “https://www.biblegateway.com/passage/?search=1%20Timothy%201%3A16&version=NRSVA”
 [bing]: "https://www.bing.com/images/create?FORM=GENILP"
+
+[TIML1]: /blog/timothy-letters-one/

@@ -38,8 +38,9 @@ summary: "Motherhood is a beautiful and challenging journey that can leave many 
 
 |    | Blog Series: Timothy Letters                                                                |
 |:-- |:------------------------------------------------------------------------------------------ |
-| 2  | ["Modeling a Relationship with God for Our Children"](/content/blog/timothy-letters-two.md) |
+| 2  | [Modeling a Relationship with God for Our Children][timL2] |
 | 1  | "Don't Feel Qualified to be a Mom You're in Good Company"                                   |
 
 [1 Timothy 1:12-13]: “https://www.biblegateway.com/passage/?search=1%20Timothy%201%3A12-13&version=NRSVA”
 [RDNE]: "https://www.pexels.com/photo/a-baby-getting-a-bath-6849421/"
+[TIML2]: /blog/timothy-letters-two/

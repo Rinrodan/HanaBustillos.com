@@ -23,19 +23,15 @@ DefaultContentLanguageInSubdir = false
         weight = 1
 
     [[languages.en.menu.main]]
-        name = "About"
-        url = "page/about/"
+        name = "Series"
+        url = "page/blog-series"
         weight = 2
 
     [[languages.en.menu.main]]
-        name = "Tags"
-        url = "tags"
+        name = "About"
+        url = "page/about/"
         weight = 3
 
-    [[languages.en.menu.main]]
-        name = "Top Post"
-        url = "/blog/why-starting/"
-        weight = 4
 
   
 
