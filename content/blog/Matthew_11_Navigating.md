@@ -1,7 +1,7 @@
 ---
 author: Hana Bustillos
 title: "Navigating New Motherhood: The Unspoken Resentment"
-date: 2023-08-15
+date: 2023-09-01
 draft: false
 description: "Explore the feelings of resentment that often accompany the transition to motherhood and why it’s essential to address them openly."
 tags: ["matthew", “sacrifice”,  “Motherhood”, "Christian Parenting", "Navigating Motherhood"]
@@ -77,15 +77,15 @@ God tells us: It is tiring being a mom, and it is tiring carrying around strong 
 
 ## You Can’t Say That if You’re a Mom
 
-&nbsp;  &nbsp; We are, culturally, uncomfortable with moms truly expressing how hard motherhood is.  Yet we all seem to be in agreement that no one works harder than moms, and we hold that image of a hard-working, loving, patient mother up on a pedestal.  That creates a weird dynamic, where we agree that moms work hard, but as moms, we’re afraid to admit that we fall short of the ideal.  We’re afraid that if we fall short (and we know that we do), we are not worthy of admiration, support, encouragement, or care.
+&nbsp;&nbsp; We are, culturally, uncomfortable with moms truly expressing how hard motherhood is.  Yet we all seem to be in agreement that no one works harder than moms, and we hold that image of a hard-working, loving, patient mother up on a pedestal.  That creates a weird dynamic, where we agree that moms work hard, but as moms, we’re afraid to admit that we fall short of the ideal.  We’re afraid that if we fall short (and we know that we do), we are not worthy of admiration, support, encouragement, or care.
 
-&nbsp;  &nbsp; As it turns out, God is always open to hearing our feelings.  God is always listening when we want to talk.  God wants us to rest.  God designed us to rest.  God wants goodness and abundance for us.
+&nbsp;&nbsp; As it turns out, God is always open to hearing our feelings.  God is always listening when we want to talk.  God wants us to rest.  God designed us to rest.  God wants goodness and abundance for us.
 
-&nbsp;  &nbsp; There are times in life when things get HARD, and parenting gives us a bounty of those.  We carry so much for ourselves, our children, and our families, but God invites us to lay down our burdens.  Because God is always open to hearing us, this can look like literally anything.  An evening alone, a long hot shower, or screaming into the pillow after everyone is put on timeout (been there).
+&nbsp;&nbsp; There are times in life when things get HARD, and parenting gives us a bounty of those.  We carry so much for ourselves, our children, and our families, but God invites us to lay down our burdens.  Because God is always open to hearing us, this can look like literally anything.  An evening alone, a long hot shower, or screaming into the pillow after everyone is put on timeout (been there).
 
-&nbsp;  &nbsp; God does not judge us for whatever we are feeling.  Just as God is present with us in the joy, celebration, and delight that comes with motherhood, God is present with us in the resentment, frustration, and exasperation.  God makes room for our feelings.
+&nbsp;&nbsp; God does not judge us for whatever we are feeling.  Just as God is present with us in the joy, celebration, and delight that comes with motherhood, God is present with us in the resentment, frustration, and exasperation.  God makes room for our feelings.
 
-&nbsp;  &nbsp; Your feelings about motherhood are not wrong.  The good and the bad are all mixed up together because motherhood requires us to sacrifice ourselves, in ways big and small, all the time.  It’s beautiful and painful and hard, and however you feel about it is fine.  God welcomes all our feelings and God can HANDLE all our feelings.
+&nbsp; &nbsp; Your feelings about motherhood are not wrong.  The good and the bad are all mixed up together because motherhood requires us to sacrifice ourselves, in ways big and small, all the time.  It’s beautiful and painful and hard, and however you feel about it is fine.  God welcomes all our feelings and God can HANDLE all our feelings.
 
 ## God is There, God Sees You, God Hears You
 

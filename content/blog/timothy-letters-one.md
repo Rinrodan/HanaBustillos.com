@@ -13,8 +13,7 @@ summary: "Motherhood is a beautiful and challenging journey that can leave many 
 [Photo by RDNE Stock project:][RDNE]
 
 ---
-> "I am grateful to Christ Jesus our Lord, who has strengthened me, because he considered me faithful and appointed me to his service, even though I was formerly a blasphemer, a persecutor, and a man of violence."
-[1 Timothy 1:12-13][1 Timothy 1:12-13]
+
 
 > "I am grateful to Christ Jesus our Lord, who has strengthened me, because he considered me faithful and appointed me to his service, even though I was formerly a blasphemer, a persecutor, and a man of violence."
 [1 Timothy 1:12-13][1 Timothy 1:12-13]
@@ -36,6 +35,11 @@ summary: "Motherhood is a beautiful and challenging journey that can leave many 
 ## God Says You’re Ready
 
 &nbsp; &nbsp; It’s also important to remember that, just like Paul, you have been appointed by God as the mother of your children.  This is a calling specific to you and your family, and that is a good thing.  You will have hard days, months, and years, but God is always with you on the journey.
+
+|    | Blog Series: Timothy Letters                                                                |
+|:-- |:------------------------------------------------------------------------------------------ |
+| 2  | ["Modeling a Relationship with God for Our Children"](/content/blog/timothy-letters-two.md) |
+| 1  | "Don't Feel Qualified to be a Mom You're in Good Company"                                   |
 
 [1 Timothy 1:12-13]: “https://www.biblegateway.com/passage/?search=1%20Timothy%201%3A12-13&version=NRSVA”
 [RDNE]: "https://www.pexels.com/photo/a-baby-getting-a-bath-6849421/"
