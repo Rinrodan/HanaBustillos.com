@@ -32,11 +32,14 @@ summary: "Just as Paul was “foremost” in the early church - the one who was 
 
 ---
 
-|    | Blog Series: Timothy Letters                                                                      |
-|:-- |:------------------------------------------------------------------------------------------------- |
-| 2  | Modeling a Relationship with God for Our Children                                                 |
+|    | Blog Series: Timothy Letters                                       |
+|:-- |:------------------------------------------------------------------ |
+| 2  | Modeling a Relationship with God for Our Children     &#11214;     |
 | 1  | [Don\'t Feel Qualified to be a Mom You\'re in Good Company][timL1] |
-|    |                                                                                                   |
+|    |                                                                    |
+
+
+
 
 [1 Timothy 1:16]: “https://www.biblegateway.com/passage/?search=1%20Timothy%201%3A16&version=NRSVA”
 [bing]: "https://www.bing.com/images/create?FORM=GENILP"
