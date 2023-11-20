@@ -41,5 +41,5 @@ summary: "Truly I tell you, unless you change and become like little children, y
 &nbsp; &nbsp; This Scripture reminds us that an empathetic approach to our children makes room in all our lives for the love of God.  It reminds us all that God wants us to treat each other with empathy and understanding.  God shows us love by always being willing to meet us where we’re at, and we can turn around and do the same.
 
 
-[Matthew 18:1-5]: “https://www.biblegateway.com/passage/?search=Matthew%2018%3A1-5&version=NIV”
+[Matthew 18:1-5]: https://www.biblegateway.com/passage/?search=Matthew%2018%3A1-5&version=NIV
 

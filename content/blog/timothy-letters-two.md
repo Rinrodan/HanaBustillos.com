@@ -41,7 +41,7 @@ summary: "Just as Paul was “foremost” in the early church - the one who was 
 
 
 
-[verse]: “https://www.biblegateway.com/passage/?search=1%20Timothy%201%3A16&version=NRSVA”
-[thumb]: "https://www.bing.com/images/create?FORM=GENILP"
+[verse]: https://www.biblegateway.com/passage/?search=1%20Timothy%201%3A16&version=NRSVA
+[thumb]: https://www.bing.com/images/create?FORM=GENILP
 [seriesTimothyLetters]: /tags/timothy-letters/
 [TIML1]: /blog/timothy-letters-one/

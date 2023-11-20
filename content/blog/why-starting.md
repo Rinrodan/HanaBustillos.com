@@ -14,7 +14,7 @@ toc: true
 summary: "I’ve had a lot of job experience in writing devotions, sermons, prayers, and keynotes, that (hopefully) were meaningful to people and reminded them that God loves them."
 ---
 
-[Photo by Alina Vilchenko:](https://www.pexels.com/photo/photo-of-person-holding-cup-3363111/)
+[Photo by Alina Vilchenko:][thumb]
 
 ---
 
@@ -102,3 +102,4 @@ The website banner says it best: __I am here to tell you that even on your worst
 
 &nbsp;&nbsp; Motherhood really threw me for a loop, and while I generally feel more confident as a mom now, it has at different times been a huge struggle.  There have been days when I was sure that I was doing everything wrong and I had no idea how to get it right.  There have been days when I questioned who I was and what I was doing, and why I felt like I was at all capable of doing this.  There have been days and weeks where I felt I was in a rut - that I was impatient, snappy, incompetent, and angry, and there was no way for me to get out of it.
 
+[thumb]: https://www.pexels.com/photo/photo-of-person-holding-cup-3363111/

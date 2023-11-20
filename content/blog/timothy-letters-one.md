@@ -44,7 +44,7 @@ summary: "Motherhood is a beautiful and challenging journey that can leave many 
 | 2  | [Modeling a Relationship with God for Our Children][timL2]    |
 | 1  | {{< param title>}}  &nbsp; &nbsp; ★|
 
-[verse]: “https://www.biblegateway.com/passage/?search=1%20Timothy%201%3A12-13&version=NRSVA”
-[thumb]: "https://www.pexels.com/photo/a-baby-getting-a-bath-6849421/"
+[verse]: https://www.biblegateway.com/passage/?search=1%20Timothy%201%3A12-13&version=NRSVA
+[thumb]: https://www.pexels.com/photo/a-baby-getting-a-bath-6849421/
 [seriesTimothyLetters]: /tags/timothy-letters/
 [TIML2]: /blog/timothy-letters-two/

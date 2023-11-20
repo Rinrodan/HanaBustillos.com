@@ -93,6 +93,6 @@ God tells us: It is tiring being a mom, and it is tiring carrying around strong 
 
 It feels like being seen.  It feels like being known.  It feels like someone looking you in the eye and saying, “I know exactly how you feel and it’s okay.”  What a relief.
 
-[thumb]: "https://www.pexels.com/photo/woman-in-green-dress-standing-outdoors-2973832/"
+[thumb]: https://www.pexels.com/photo/woman-in-green-dress-standing-outdoors-2973832/
 
-[Matthew_A]: "https://www.biblegateway.com/passage/?search=Matthew%2011:28-30&version=NKJV"
+[Matthew_A]: https://www.biblegateway.com/passage/?search=Matthew%2011:28-30&version=NKJV
