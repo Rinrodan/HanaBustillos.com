@@ -57,7 +57,8 @@ DefaultContentLanguageInSubdir = false
   ]
 
   # Custom copyright - optional
-  copyright = "Copyright © 2023 - Hana Bustillos · All rights reserved · Made with Hugo"
+
+  copyright = "Copyright © 2023 - Hana Bustillos · All rights reserved ·"
   favicon = "/favicon.png"
 
   # Color for the intro details and social links block, not applicable for dark mode

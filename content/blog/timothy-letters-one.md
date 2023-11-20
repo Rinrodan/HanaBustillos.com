@@ -1,23 +1,23 @@
 ---
 author: Hana Bustillos
-title: "Don't Feel Qualified to be a Mom You're in Good Company"
+title: "Don't Feel Qualified to be a Mom? You're in Good Company"
 date: 2023-07-02
 draft: false
-description: "God chooses people who feel unprepared, if you feel unprepared to be a good mother... that's okay."
+description: "Timothy Letters: Part One - God chooses people who feel unprepared, if you feel unprepared to be a good mother... that's okay."
 tags: ["motherhood", "love", "Christian Parenting", "Timothy Letters", "ready to be a mother", "example for my kids"]
 thumbnail: /images/timothyLetters1.webp
 summary: "Motherhood is a beautiful and challenging journey that can leave many women feeling unprepared. However, the Bible is full of stories of God choosing people who felt unqualified for the task at hand."
 
 ---
 
-[Photo by RDNE Stock project:][RDNE]
+[Photo by RDNE Stock project:][thumb]
 
 ---
 
 
 > I am grateful to Christ Jesus our Lord, who has strengthened me, because he considered me faithful and appointed me to his service, even though I was formerly a blasphemer, a persecutor, and a man of violence.
 
-[1 Timothy 1:12-13][1 Timothy 1:12-13]
+[1 Timothy 1:12-13][verse]
 
 ## Who Said I was Qualified for this?
 
@@ -42,9 +42,9 @@ summary: "Motherhood is a beautiful and challenging journey that can leave many 
 |    | [Blog Series: Timothy Letters][seriesTimothyLetters]          |
 |:-- |:------------------------------------------------------------- |
 | 2  | [Modeling a Relationship with God for Our Children][timL2]    |
-| 1  | "Don't Feel Qualified to be a Mom You're in Good Company" &#11214;   |
+| 1  | {{< param title>}}  &nbsp; &nbsp; ★|
 
-[1 Timothy 1:12-13]: “https://www.biblegateway.com/passage/?search=1%20Timothy%201%3A12-13&version=NRSVA”
-[RDNE]: "https://www.pexels.com/photo/a-baby-getting-a-bath-6849421/"
+[verse]: “https://www.biblegateway.com/passage/?search=1%20Timothy%201%3A12-13&version=NRSVA”
+[thumb]: "https://www.pexels.com/photo/a-baby-getting-a-bath-6849421/"
 [seriesTimothyLetters]: /tags/timothy-letters/
 [TIML2]: /blog/timothy-letters-two/
