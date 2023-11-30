@@ -5,12 +5,11 @@ date: 2023-07-02
 draft: false
 description: "Timothy Letters: Part One - God chooses people who feel unprepared, if you feel unprepared to be a good mother... that's okay."
 tags: ["motherhood", "love", "Christian Parenting", "Timothy Letters", "ready to be a mother", "example for my kids"]
-thumbnail: /images/timothyLetters1.webp
+thumbnail: /images/projects/timothy-letters/timothyLetters1.webp
+thumbDescription: a baby bath
+thumbAttributionText: Photo by RDNE Stock project
+thumbAttributionLink: https://www.pexels.com/photo/a-baby-getting-a-bath-6849421/
 summary: "Motherhood is a beautiful and challenging journey that can leave many women feeling unprepared. However, the Bible is full of stories of God choosing people who felt unqualified for the task at hand."
-
----
-
-[Photo by RDNE Stock project:][thumb]
 
 ---
 
@@ -29,7 +28,7 @@ summary: "Motherhood is a beautiful and challenging journey that can leave many 
 
 &nbsp; &nbsp; In Paul’s letters, he often makes these kinds of remarks - pointing out that he is perhaps the least qualified guy for the job he has been given.  Yet we have a huge chunk of the Bible that shows us how passionate, relentless, and enthusiastic Paul was about the task God had assigned to him.
 
-{{< figure src="/images/timothyLetters1Jogger.webp" alt="Jogger out of breath with her trainer" attr="Photo by Julia Larson" attrlink="https://www.pexels.com/photo/exhausted-black-woman-with-trainer-on-snowy-road-6455628/" width="100%" height="auto" >}}
+{{< figure src="/images/timothy-letters/timothyLetters1Jogger.webp" alt="Jogger out of breath with her trainer" attr="Photo by Julia Larson" attrlink="https://www.pexels.com/photo/exhausted-black-woman-with-trainer-on-snowy-road-6455628/" width="100%" height="auto" >}}
 
 &nbsp; &nbsp; On days where you’re struggling, it’s important to remember that the job you are doing is hard.  It’s large-scale, multi-year, comprehensive work.  It’s complicated.  You may not feel qualified to do parts of it, and that’s okay.
 
@@ -45,6 +44,6 @@ summary: "Motherhood is a beautiful and challenging journey that can leave many 
 | 1  | {{< param title>}}  &nbsp; &nbsp; ★|
 
 [verse]: https://www.biblegateway.com/passage/?search=1%20Timothy%201%3A12-13&version=NRSVA
-[thumb]: https://www.pexels.com/photo/a-baby-getting-a-bath-6849421/
+
 [seriesTimothyLetters]: /tags/timothy-letters/
 [TIML2]: /blog/timothy-letters-two/

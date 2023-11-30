@@ -5,14 +5,14 @@ date: 2023-10-01
 draft: false
 description: "Timothy Letters: Part Two - We are our children's first example of what a relationship with God looks like."
 tags: ["motherhood", "love", "Christian Parenting", "Timothy Letters", "admitting when we are wrong", "example for my kids"]
-thumbnail: /images/timothyLetterTwo.webp
+thumbnail: /images/projects/timothy-letters/timothyLetterTwo.webp
+thumbDescription: A young boy holding mom/'s hand
+thumbAttributionText: Image from Bing Image Creator
+thumbAttributionLink: https://www.bing.com/images/create?FORM=GENILP
 summary: "Just as Paul was “foremost” in the early church - the one who was displaying his life as an example to others, as mothers, we are often foremost in our child’s life."
 
 ---
 
-[Image from Bing Image Creator][thumb]
-
----
 
 > But for that very reason I received mercy, so that in me, as the foremost, Jesus Christ might display the utmost patience as an example to those who would come to believe in him for eternal life.
 
@@ -42,6 +42,6 @@ summary: "Just as Paul was “foremost” in the early church - the one who was 
 
 
 [verse]: https://www.biblegateway.com/passage/?search=1%20Timothy%201%3A16&version=NRSVA
-[thumb]: https://www.bing.com/images/create?FORM=GENILP
+
 [seriesTimothyLetters]: /tags/timothy-letters/
 [TIML1]: /blog/timothy-letters-one/
