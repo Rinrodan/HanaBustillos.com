@@ -8,7 +8,7 @@ tags:
   - stressed mom
 keywords:
   -
-thumbnail: /images/why-starting.jpg 
+thumbnail: /images/why-starting.webp
 description: "I want to share my personal experiences helping other moms"
 toc: true
 summary: "I’ve had a lot of job experience in writing devotions, sermons, prayers, and keynotes, that (hopefully) were meaningful to people and reminded them that God loves them."
