@@ -34,6 +34,7 @@ summary: "Just as Paul was “foremost” in the early church - the one who was 
 
 |    | [Blog Series: Timothy Letters][seriesTimothyLetters]          |
 |:-- |:------------------------------------------------------------------ |
+| 3  | [Spiritual Exercise and the Humbling Experience of Motherhood][timL3] |
 | 2  | {{< param title>}} &nbsp; &nbsp; ★  |
 | 1  | [Don\'t Feel Qualified to be a Mom You\'re in Good Company][timL1] |
 |    |                                                                    |
@@ -45,3 +46,4 @@ summary: "Just as Paul was “foremost” in the early church - the one who was 
 
 [seriesTimothyLetters]: /tags/timothy-letters/
 [TIML1]: /blog/timothy-letters-one/
+[TIML3]: /blog/timothy-letters-three/
