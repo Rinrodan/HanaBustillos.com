@@ -6,7 +6,7 @@ draft: false
 description: "Timothy Letters: Part Three - As moms we need to take care of both our physical AND spiritual fitness."
 tags: ["motherhood", "love", "Christian Parenting", "Timothy Letters", "spiritual fitness", "example for my kids"]
 series: Timothy Letters
-thumbnail: /images/timothy-letters/timothyLettersThree.webp
+thumbnail: /images/projects/timothy-letters/timothyLettersThree.webp
 thumbDescription: A woman staring up at a rock climbing wall
 thumbAttributionText: Photo by Allan Mas
 thumbAttributionLink: https://www.pexels.com/photo/woman-preparing-for-climbing-high-on-wall-5383501/

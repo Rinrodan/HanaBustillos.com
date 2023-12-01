@@ -33,15 +33,12 @@ toc: true
 
 ---
 
-|    | [Blog Series: Timothy Letters][seriesTimothyLetters]                  |
-|:-- |:------------------------------------------------------------------    |
+|    | [Blog Series: Timothy Letters][seriesTimothyLetters]          |
+|:-- |:------------------------------------------------------------------ |
 | 3  | [Spiritual Exercise and the Humbling Experience of Motherhood][timL3] |
-| 2  | {{< param title>}} &nbsp; &nbsp; ★                                    |
-| 1  | [Don\'t Feel Qualified to be a Mom You\'re in Good Company][timL1]    |
-|    |                                                                       |
-
-
-
+| 2  | {{< param title>}} &nbsp; &nbsp; ★  |
+| 1  | [Don\'t Feel Qualified to be a Mom You\'re in Good Company][timL1] |
+|    |                                                                    |
 
 [verse]: https://www.biblegateway.com/passage/?search=1%20Timothy%201%3A16&version=NRSVA
 
@@ -49,3 +46,4 @@ toc: true
 
 [TIML3]: /blog/timothy-letters-three/
 [TIML1]: /blog/timothy-letters-one/
+
