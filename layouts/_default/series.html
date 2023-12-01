@@ -1,4 +1,23 @@
 {{ define "main" }}
+{{ $series := .Params.series }}
+{{ $title := .Params.title }}
+
+
+
+
+
+
+{{ range $series, $posts := .Site.Taxonomies.series }}
+    <div class="card">
+        <a href="/series/{{ $series }}">
+            <h2>{{ $series }}</h2>
+        </a>
+     
+    </div>
+{{ end }}
+
+{{partial "debug" $title}}
+
 
 
 

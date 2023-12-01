@@ -6,11 +6,12 @@ draft: false
 description: "A series of lighthearted observations of the joyous moments that make it all worth it. "
 tags: ["lighthearted", "happy mom", "Joys of Motherhood"]
 thumbnail: /images/giraffe.webp
+thumbDescription: photo of a giraffe
+thumbAttributionText: Photo by energepic.com from Pexels
+thumbAttributionLink: https://www.pexels.com/photo/person-feeding-giraffe-3839115/
 summary: "Motherhood comes with its share of struggles, and obviously that makes up most of my content.  However, it also comes with its share of joys, and most of the time, the joys outweigh the struggles with no contest.  This series is a little respite from the “hard stuff” that I write about."
 ---
-[Photo by energepic.com from Pexels:]( https://www.pexels.com/photo/person-feeding-giraffe-3839115/)
 
----
 
 
 &nbsp;&nbsp; Motherhood comes with its share of struggles, and obviously that makes up most of my content.  However, it also comes with its share of joys, and most of the time, the joys outweigh the struggles with no contest.  This series is a little respite from the “hard stuff” that I write about.  It’s a time and space to celebrate the things that make raising children so wonderful.  A lot of it is mundane - everyday moments that pass by in a heartbeat, but stick with me forever.  A lot of them are universal - I’m sure you’ve shared many of the same experiences.

@@ -1,6 +1,6 @@
 ---
 title: "Why I'm Starting This Blog"
-date: 2023-02-24T14:50:24-07:00
+date: 2023-02-24
 draft: false
 author: "Hana Bustillos"
 tags:
@@ -8,15 +8,15 @@ tags:
   - stressed mom
 keywords:
   -
-thumbnail: /images/why-starting.jpg 
+thumbnail: /images/why-starting.webp
+thumbDescription: photo of a woman holding a cup and reading a journal
+thumbAttributionText: Photo by Alina Vilchenk
+thumbAttributionLink: https://www.pexels.com/photo/photo-of-person-holding-cup-3363111/
 description: "I want to share my personal experiences helping other moms"
 toc: true
 summary: "I’ve had a lot of job experience in writing devotions, sermons, prayers, and keynotes, that (hopefully) were meaningful to people and reminded them that God loves them."
 ---
 
-[Photo by Alina Vilchenko:][thumb]
-
----
 
   >__I am here to tell you that even on your worst days, you’re not a bad mom, you haven’t ruined your child, and God still loves you.__
 
@@ -42,7 +42,7 @@ summary: "I’ve had a lot of job experience in writing devotions, sermons, pray
 &nbsp;&nbsp; In early December 2020, we got the dreaded call that our daycare was closed for two weeks because of a Covid exposure.  So we embarked, like so many parents, on yet another day of trying to figure out what to do with an almost-three-year-old and a just-turned-one-year-old.  My husband was home from work that day and, no doubt reading my rocketing stress levels, he gave me a hug and suggested I take the morning off while he stayed with the kids, and I go do something just for myself (we try to give each other regularly scheduled parenting breaks anyways, but this was not the original plan for the day).  I went to our family room to read, but I was so stressed I couldn’t focus on anything fun.  My mind was racing and I just could not settle.
 
 
-{{< figure src="/images/why-stressed-mom-loud-kids-1.jpg" alt="Stressed out mom and kids" attr="Photo by Ketut Subiyanto" attrlink="https://www.pexels.com/photo/kids-making-noise-and-disturbing-mom-working-at-home-4474035/" width="100%" height="auto" >}}
+{{< figure src="/images/why-stressed-mom-loud-kids-1.webp" alt="Stressed out mom and kids" attr="Photo by Ketut Subiyanto" attrlink="https://www.pexels.com/photo/kids-making-noise-and-disturbing-mom-working-at-home-4474035/" width="100%" height="auto" >}}
 
 
 &nbsp;&nbsp; Eventually, I laid down on the couch and committed to really untangling what was bothering me so much.  At this point I had been a mom for just under three years.  I had gotten through a rough newborn period with my first, been breastfeeding for all that time (tandem breastfeeding since my second was born), had managed a busy work/life schedule, and that was before Covid came and turned our whole world upside down, and we had moved just under two months before.  Yet I never felt “settled” in my role as a mother, and I felt completely thrown by the prospect of being a stay-at-home mom for two weeks.
@@ -102,4 +102,3 @@ The website banner says it best: __I am here to tell you that even on your worst
 
 &nbsp;&nbsp; Motherhood really threw me for a loop, and while I generally feel more confident as a mom now, it has at different times been a huge struggle.  There have been days when I was sure that I was doing everything wrong and I had no idea how to get it right.  There have been days when I questioned who I was and what I was doing, and why I felt like I was at all capable of doing this.  There have been days and weeks where I felt I was in a rut - that I was impatient, snappy, incompetent, and angry, and there was no way for me to get out of it.
 
-[thumb]: https://www.pexels.com/photo/photo-of-person-holding-cup-3363111/

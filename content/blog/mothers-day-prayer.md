@@ -4,10 +4,12 @@ author: Hana Bustillos
 date: 2023-02-21
 draft: false
 description: A prayer for all Moms
-projects: Prayer
 tags: 
 keywords: 
-thumbnail: /images/mothersday2.jpg
+thumbnail: /images/mothersday2.webp
+thumbDescription: Mother with a tattoo holding her newborn
+thumbAttributionText: Photo by Anna Shvets
+thumbAttributionLink: https://www.pexels.com/photo/crop-mother-with-tattoo-patting-head-of-newborn-while-hugging-toddler-in-room-3845262/
 summary: "This pastoral prayer covers a lot of situations."
 ---
 
