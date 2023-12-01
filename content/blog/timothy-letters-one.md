@@ -5,12 +5,13 @@ date: 2023-07-02
 draft: false
 description: "Timothy Letters: Part One - God chooses people who feel unprepared, if you feel unprepared to be a good mother... that's okay."
 tags: ["motherhood", "love", "Christian Parenting", "Timothy Letters", "ready to be a mother", "example for my kids"]
+series: Timothy Letters
 thumbnail: /images/projects/timothy-letters/timothyLetters1.webp
 thumbDescription: a baby bath
 thumbAttributionText: Photo by RDNE Stock project
 thumbAttributionLink: https://www.pexels.com/photo/a-baby-getting-a-bath-6849421/
 summary: "Motherhood is a beautiful and challenging journey that can leave many women feeling unprepared. However, the Bible is full of stories of God choosing people who felt unqualified for the task at hand."
-
+toc: true
 ---
 
 

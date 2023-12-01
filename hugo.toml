@@ -4,7 +4,6 @@ title = "HanaBustillos.com"
 theme = "blist"
 googleAnalytics = "AW-10962547353"
 
-
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = false
 [languages]
@@ -33,7 +32,8 @@ DefaultContentLanguageInSubdir = false
         weight = 3
 
 
-  
+
+
 
 [params]
   # Enable the darkmode toggle in header
@@ -53,7 +53,8 @@ DefaultContentLanguageInSubdir = false
     "summary",
     "content",
     "link",
-    "author"
+    "author",
+    "series"
   ]
 
   # Custom copyright - optional

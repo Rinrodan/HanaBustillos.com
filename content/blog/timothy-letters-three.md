@@ -5,12 +5,13 @@ date: 2023-10-23
 draft: false
 description: "Timothy Letters: Part Three - As moms we need to take care of both our physical AND spiritual fitness."
 tags: ["motherhood", "love", "Christian Parenting", "Timothy Letters", "spiritual fitness", "example for my kids"]
+series: Timothy Letters
 thumbnail: /images/projects/timothy-letters/timothyLettersThree.webp
 thumbDescription: A woman staring up at a rock climbing wall
 thumbAttributionText: Photo by Allan Mas
 thumbAttributionLink: https://www.pexels.com/photo/woman-preparing-for-climbing-high-on-wall-5383501/
 summary: "The apostle Paul tells us to not only take care of our bodies, but also work on our spiritual fitness. He advises us to avoid negative influences and pursue godliness, which is valuable for both this life and the next. He also warns us that our journey will not be smooth sailing, and we have to face it with faith and hope in God, who is our Savior."
-
+toc: true
 ---
 
 
@@ -42,6 +43,7 @@ summary: "The apostle Paul tells us to not only take care of our bodies, but als
 
 |    | [Blog Series: Timothy Letters][series]          |
 |:-- |:------------------------------------------------------------------ |
+| 4  | [God Did Not Give us a Spirit of Cowardice][timL4]         |
 | 3  |  {{<param title>}}  &nbsp; &nbsp; ★                               |
 | 2  | [Modeling a Relationship with God for Our Children][timL2]         |
 | 1  | [Don\'t Feel Qualified to be a Mom You\'re in Good Company][timL1] |
@@ -49,5 +51,6 @@ summary: "The apostle Paul tells us to not only take care of our bodies, but als
 
 [verse]: https://www.biblegateway.com/passage/?search=1%20Timothy%204%3A7-10&version=NRSVA
 [series]: /tags/timothy-letters/
+[TIML4]: /blog/timothy-letters-four/
 [TIML2]: /blog/timothy-letters-two/
 [TIML1]: /blog/timothy-letters-one/

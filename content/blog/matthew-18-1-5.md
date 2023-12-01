@@ -6,17 +6,18 @@ draft: false
 description: "Seeing the world through a child’s eyes"
 tags: ["Empathy", “Motherhood”, “God’s Endless Patience”]
 thumbnail: /images/mother-hugging-daughter.webp
+thumbDescription: A mother hugging her small daughter
+thumbAttributionText: Photo by Lawilson Feitosa
+thumbAttributionLink: https://www.pexels.com/photo/mother-hugging-daughter-15971620/
 summary: "Truly I tell you, unless you change and become like little children, you will never enter the kingdom of heaven."
 ---
-[Photo by Lawilson Feitosa:]( https://www.pexels.com/photo/mother-hugging-daughter-15971620/ )
 
----
 
 
 > <sup>**1**</sup>At that time the disciples came to Jesus and asked, “Who, then, is the greatest in the kingdom of heaven?”
 > <sup>**2**</sup> He called a little child to him, and placed the child among them. <sup>**3**</sup> And he said: “Truly I tell you, unless you change and become like little children, you will never enter the kingdom of heaven. <sup>**4**</sup> Therefore, whoever takes the lowly position of this child is the greatest in the kingdom of heaven. <sup>**5**</sup> And whoever welcomes one such child in my name welcomes me.
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Matthew 18:1-5][Matthew 18:1-5]
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Matthew 18:1-5][verse]
 
 &nbsp; &nbsp; One of the great joys of parenting, something I hear and read about parents experiencing all the time, is seeing the world through a child’s eyes.  This sentiment is especially prevalent around holiday times, but is true regardless of the time of year.  I get so much joy out of my childrens’ joy - seeing their faces light up when they see a Christmas tree or birthday decorations.  To me, it is nice, but not transcendent.  Seeing the authentic wonder on their faces and hearing their expressions of awe - there’s nothing quite like that. 
 
@@ -41,5 +42,5 @@ summary: "Truly I tell you, unless you change and become like little children, y
 &nbsp; &nbsp; This Scripture reminds us that an empathetic approach to our children makes room in all our lives for the love of God.  It reminds us all that God wants us to treat each other with empathy and understanding.  God shows us love by always being willing to meet us where we’re at, and we can turn around and do the same.
 
 
-[Matthew 18:1-5]: https://www.biblegateway.com/passage/?search=Matthew%2018%3A1-5&version=NIV
+[verse]: https://www.biblegateway.com/passage/?search=Matthew%2018%3A1-5&version=NIV
 

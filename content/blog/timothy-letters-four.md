@@ -5,12 +5,13 @@ date: 2023-11-10
 draft: false
 description: "Timothy Letters: Part Four - God Did Not Give us a Spirit of Cowardice"
 tags: ["motherhood", "love", "Christian Parenting", "Timothy Letters", "example for my kids",   ]
-thumbnail: /images/projects/timothy-letters/timothyLetterFour.webp
+series: Timothy Letters
+thumbnail: /images/projects/timothy-letters/timothyLettersFour.webp
 thumbDescription: A lion cub looking up at mom
 thumbAttributionText: Photo by Frans van Heerden
 thumbAttributionLink: https://www.pexels.com/photo/a-lioness-and-her-cubs-10625024/
 summary: "You have been gifted by God for motherhood and you have enough power, love, and self-discipline to overcome fears of being a bad mother. We are not alone in this journey and we can rely on God and those who care about us. You can do this with God's help and grace."
-
+toc: true
 ---
 
 
@@ -50,7 +51,7 @@ It does mean that you are gifted by God in unique and wonderful ways.  You can 
 
 [verse]: https://www.biblegateway.com/passage/?search=2+Timothy+1%3A6-7&version=NRSVA
 [seriesTimothyLetters]: /tags/timothy-letters/
-[TIML4]: /blog/timothy-letters-four/
+
 [TIML3]: /blog/timothy-letters-three/
 [TIML2]: /blog/timothy-letters-two/
 [TIML1]: /blog/timothy-letters-one/

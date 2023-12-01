@@ -6,13 +6,12 @@ draft: false
 description: "Explore the feelings of resentment that often accompany the transition to motherhood and why it’s essential to address them openly."
 tags: ["matthew", “sacrifice”,  “Motherhood”, "Christian Parenting", "Navigating Motherhood"]
 thumbnail: /images/matthewElevenResentment.webp
+thumbDescription: A barefoot woman in a dress standing outside looking detatched
+thumbAttributionText: Photo by sergio souza
+thumbAttributionLink: https://www.pexels.com/photo/woman-in-green-dress-standing-outdoors-2973832/
 summary: "Mothers live in and through moments of strong emotions, both positive and negative.  It’s common for mothers to grapple with resentment, a constant feeling of imbalance, and the weight of unmet needs. In our vulnerability, we find solace in knowing that God, in His boundless compassion, doesn’t judge us for these emotions. He holds our deepest feelings, offering comfort,  understanding, and peace."
+toc: true
 ---
-
-[Photo by sergio souza][thumb]
-
----
-
 
 > Come to me, all you who are weary and burdened, and I will give you rest.  Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls.  For my yoke is easy and my burden is light." 
 [Matthew 11:28-30][Matthew_A]
@@ -93,6 +92,6 @@ God tells us: It is tiring being a mom, and it is tiring carrying around strong 
 
 It feels like being seen.  It feels like being known.  It feels like someone looking you in the eye and saying, “I know exactly how you feel and it’s okay.”  What a relief.
 
-[thumb]: https://www.pexels.com/photo/woman-in-green-dress-standing-outdoors-2973832/
+
 
 [Matthew_A]: https://www.biblegateway.com/passage/?search=Matthew%2011:28-30&version=NKJV

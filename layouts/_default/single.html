@@ -77,11 +77,15 @@
     {{ end }}
     
 
-    
+    {{ if ( .Params.series) }}
+    {{- partial "partials/seriesPrevNext.html" . -}}
+    {{ end }}
+
 
 
 
     {{ .Content }}
+
   </article>
 
   {{- partial "comments.html" . -}}

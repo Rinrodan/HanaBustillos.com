@@ -5,14 +5,13 @@ date: 2023-02-21
 draft: false
 description: "from the love of God"
 tags: ["romans", "bible verses", "love"]
-thumbnail: /images/romans38sunset.webp
+
+thumbnail: /images/romans38sunset.jpg
+thumbDescription: a woman standing on the edge of a cliff at sunset
+thumbAttributionText: Photo by Tobias Bjørkli from Pexels
+thumbAttributionLink: https://www.pexels.com/photo/woman-standing-on-cliff-beside-trees-during-sunset-2340166/
 summary: "Mistakes, challenges, and failings will not separate you from the God who loves you no matter what."
 ---
-[Photo by Tobias Bjørkli from Pexels:](https://www.pexels.com/photo/woman-standing-on-cliff-beside-trees-during-sunset-2340166/)
-
-
----
-
 
 **”_Mistakes, challenges, and failings will not separate you from the God who loves you no matter what._”**
 
