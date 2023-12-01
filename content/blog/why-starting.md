@@ -8,7 +8,7 @@ tags:
   - stressed mom
 keywords:
   -
-
+thumbnail: /images/why-starting.webp
 thumbDescription: photo of a woman holding a cup and reading a journal
 thumbAttributionText: Photo by Alina Vilchenk
 thumbAttributionLink: https://www.pexels.com/photo/photo-of-person-holding-cup-3363111/

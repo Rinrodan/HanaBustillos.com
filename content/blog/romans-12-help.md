@@ -5,8 +5,8 @@ draft: false
 author: Hana Bustillos
 tags: ["prayer", "overcome evil with good","Anne Lamot"]
 series: Timothy Letters
-thumbnail: /images/romans12bed.jpg
-description: A prayer based on Romans 12
+thumbnail: /images/romans12bed.webp
+description: A Romans 12 prayer
 thumbDescription: mother and daughter usnig a laptop and drawing
 thumbAttributionText: Photo by Tatiana Syrikova from Pexels
 thumbAttributionLink: https://www.pexels.com/photo/crop-mother-and-daughter-using-laptop-and-drawing-3975640/
