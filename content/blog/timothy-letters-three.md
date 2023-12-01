@@ -43,6 +43,7 @@ toc: true
 
 |    | [Blog Series: Timothy Letters][series]          |
 |:-- |:------------------------------------------------------------------ |
+| 4  | [God Did Not Give us a Spirit of Cowardice][timL4]         |
 | 3  |  {{<param title>}}  &nbsp; &nbsp; ★                               |
 | 2  | [Modeling a Relationship with God for Our Children][timL2]         |
 | 1  | [Don\'t Feel Qualified to be a Mom You\'re in Good Company][timL1] |
@@ -50,5 +51,6 @@ toc: true
 
 [verse]: https://www.biblegateway.com/passage/?search=1%20Timothy%204%3A7-10&version=NRSVA
 [series]: /tags/timothy-letters/
+[TIML4]: /blog/timothy-letters-four/
 [TIML2]: /blog/timothy-letters-two/
 [TIML1]: /blog/timothy-letters-one/

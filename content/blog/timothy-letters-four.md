@@ -51,7 +51,7 @@ It does mean that you are gifted by God in unique and wonderful ways.  You can 
 
 [verse]: https://www.biblegateway.com/passage/?search=2+Timothy+1%3A6-7&version=NRSVA
 [seriesTimothyLetters]: /tags/timothy-letters/
-[TIML4]: /blog/timothy-letters-four/
+
 [TIML3]: /blog/timothy-letters-three/
 [TIML2]: /blog/timothy-letters-two/
 [TIML1]: /blog/timothy-letters-one/
