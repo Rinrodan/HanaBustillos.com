@@ -5,7 +5,7 @@ draft: false
 author: "Hana Bustillos"
 tags: [ "Blog", "Stressed Mom" ]
 keywords:
-thumbnail: /images/why-starting.webp
+thumbnail: /blog/why-starting/why-starting.webp
 thumbDescription: photo of a woman holding a cup and reading a journal
 thumbAttributionText: Photo by Alina Vilchenk
 thumbAttributionLink: https://www.pexels.com/photo/photo-of-person-holding-cup-3363111/
@@ -39,7 +39,7 @@ summary: "I’ve had a lot of job experience in writing devotions, sermons, pray
 &nbsp;&nbsp; In early December 2020, we got the dreaded call that our daycare was closed for two weeks because of a Covid exposure.  So we embarked, like so many parents, on yet another day of trying to figure out what to do with an almost-three-year-old and a just-turned-one-year-old.  My husband was home from work that day and, no doubt reading my rocketing stress levels, he gave me a hug and suggested I take the morning off while he stayed with the kids, and I go do something just for myself (we try to give each other regularly scheduled parenting breaks anyways, but this was not the original plan for the day).  I went to our family room to read, but I was so stressed I couldn’t focus on anything fun.  My mind was racing and I just could not settle.
 
 
-{{< figure src="/images/why-stressed-mom-loud-kids-1.webp" alt="Stressed out mom and kids" attr="Photo by Ketut Subiyanto" attrlink="https://www.pexels.com/photo/kids-making-noise-and-disturbing-mom-working-at-home-4474035/" width="100%" height="auto" >}}
+{{< figure src="/blog/why-starting/why-stressed-mom-loud-kids-1.webp" alt="Stressed out mom and kids" attr="Photo by Ketut Subiyanto" attrlink="https://www.pexels.com/photo/kids-making-noise-and-disturbing-mom-working-at-home-4474035/" width="100%" height="auto" >}}
 
 
 &nbsp;&nbsp; Eventually, I laid down on the couch and committed to really untangling what was bothering me so much.  At this point I had been a mom for just under three years.  I had gotten through a rough newborn period with my first, been breastfeeding for all that time (tandem breastfeeding since my second was born), had managed a busy work/life schedule, and that was before Covid came and turned our whole world upside down, and we had moved just under two months before.  Yet I never felt "settled" in my role as a mother, and I felt completely thrown by the prospect of being a stay-at-home mom for two weeks.
@@ -63,7 +63,7 @@ summary: "I’ve had a lot of job experience in writing devotions, sermons, pray
 &nbsp;&nbsp; So not only do we feel shocked/surprised/upset/frustrated, but we feel as though we have no capacity to deal with whatever the situation is.  And that sense of failure or inadequacy is haunting.  That feeling that no matter how much we plan or prepare, life as a mom is always going to throw us a curveball one way or another and we will not see it coming.
 
 
-{{< figure src="/images/why-stressed-woman-1.jpg" alt="Stressed out woman" attr="Photo by Ana Bregantin" attrlink="https://www.pexels.com/photo/woman-face-emotion-alone-1930523/" width="50%" height="auto" >}}
+{{< figure src="/blog/why-starting/why-stressed-woman-1.webp" alt="Stressed out woman" attr="Photo by Ana Bregantin" attrlink="https://www.pexels.com/photo/woman-face-emotion-alone-1930523/" width="100%" height="auto" >}}
 
 
 ## God’s Love

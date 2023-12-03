@@ -1,8 +1,8 @@
 ---
 author: Hana Bustillos
 title: "Ephesians"
-date: 2023-12-30
-draft: true
+date: 2023-10-30
+draft: false
 description: ""
 tags: ["motherhood", "love", "Christian Parenting" ]
 series: Timothy Letters

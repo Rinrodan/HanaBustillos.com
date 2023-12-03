@@ -6,7 +6,7 @@ draft: false
 description: "Timothy Letters 5 - Paul tells us to be that dependable and capable wooden spoon"
 tags: [ "Motherhood", "love", "Christian Parenting", "Timothy Letters", "Wooden Spoon Motherhood" ]
 series: Timothy Letters
-thumbnail: /images/projects/timothy-letters/timothyLettersFive.webp
+thumbnail: /blog/timothy-letters/timothyLettersFive.webp
 thumbDescription: A charcoal drawing of a woman stirring a mixing bowl using a wooden spoon
 thumbAttributionText: Image from Bing Image Creator
 thumbAttributionLink: https://www.bing.com/images/create?FORM=GENILP
