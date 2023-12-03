@@ -4,7 +4,7 @@ title: "Navigating New Motherhood: The Unspoken Resentment"
 date: 2023-09-01
 draft: false
 description: "Explore the feelings of resentment that often accompany the transition to motherhood and why it’s essential to address them openly."
-tags: ["matthew", “sacrifice”,  “Motherhood”, "Christian Parenting", "Navigating Motherhood"]
+tags: [ "Matthew", "Sacrifice",  "Motherhood", "Christian Parenting", "Navigating Motherhood" ]
 thumbnail: /images/matthewElevenResentment.webp
 thumbDescription: A barefoot woman in a dress standing outside looking detatched
 thumbAttributionText: Photo by sergio souza
@@ -20,7 +20,7 @@ toc: true
 
 &nbsp;  &nbsp; One of my most meaningful interactions as a young mother, (and one of the steps on the road to creating this blog) was with a health care provider.  She treated my first two children on a regular basis, so we were in her office pretty much weekly for several years.  She adopted her child around the same time that I had my first, so we shared a lot of the ups and downs of parenting with each other during my children’s appointments.
 
-&nbsp;  &nbsp; Eventually we became quite comfortable with each other, and I remember distinctly, at the end of one appointment, we were talking about the loss of identity and the incredible level of self-sacrifice that comes with being a mom.  We were kind of dancing around our feelings about it, and I finally worked up the courage to say something along the lines of, “Oh yes, I really struggled with resentment after my first was born.”
+&nbsp;  &nbsp; Eventually we became quite comfortable with each other, and I remember distinctly, at the end of one appointment, we were talking about the loss of identity and the incredible level of self-sacrifice that comes with being a mom.  We were kind of dancing around our feelings about it, and I finally worked up the courage to say something along the lines of, "Oh yes, I really struggled with resentment after my first was born."
 
 She promptly started crying and gave me a huge hug.
 
@@ -31,7 +31,7 @@ No one else had ever admitted that to her.
 
 I had never said that to anyone before.
 
-I was hesitant to say it because I was afraid she would react with disgust or disapproval.  Instead, it felt like we were open and vulnerable with each other and we told each other, “I know exactly how you feel and it’s okay.”
+I was hesitant to say it because I was afraid she would react with disgust or disapproval.  Instead, it felt like we were open and vulnerable with each other and we told each other, "I know exactly how you feel and it’s okay."
 
 &nbsp;  &nbsp; So many of the HARD feelings of motherhood go unspoken.  Resentment, anger, frustration.  Fear, anxiety, the loss of self.  I feel like we’re starting to see moms be more open about these things, especially on social media, but even then we often use blanket statements and euphemisms.  Even though these feelings are incredibly common, we’re afraid to admit them.  I definitely fear that if I say these things out loud, at best I’ll get dragged on social media (and who wants to make themselves vulnerable in that way just to get a lot of hate?), and at worst someone will come take my kids away (this fear kept me from talking about my overwhelming anxiety after my first was born).
 
@@ -66,9 +66,9 @@ I was hesitant to say it because I was afraid she would react with disgust or di
 
 &nbsp;  &nbsp; This is all to say - negative emotions are a part of motherhood.  They just are - it’s normal to feel anxious, resentful, afraid, frustrated, irritated, and angry.  And it is tiring - it is wearying, it is a burden, to carry around these emotions.  It is doubly so to carry them around and to think that, because you don’t love every single moment of motherhood, you are somehow a failure and terrible mother who is doing it all wrong.  That is a heavy burden to bear.
 
-&nbsp;  &nbsp; This well-known scripture from Matthew reminds us that when we’re feeling these negative emotions, God does not tell us: “Here’s how you never feel that way again.”  God does not tell us “You shouldn’t feel resentful, you should feel grateful for every moment.”  God does not tell us - “Shame on you, you’re a terrible mother.”  God does not tell us, “You must be doing it wrong.”
+&nbsp;  &nbsp; This well-known scripture from Matthew reminds us that when we’re feeling these negative emotions, God does not tell us: "Here’s how you never feel that way again."  God does not tell us "You shouldn’t feel resentful, you should feel grateful for every moment."  God does not tell us - "Shame on you, you’re a terrible mother."  God does not tell us, "You must be doing it wrong."
 
-God tells us: “Come to me all you who are weary and burdened, and I will give you rest.”
+God tells us: "Come to me all you who are weary and burdened, and I will give you rest."
 
 God tells us: It is tiring being a mom, and it is tiring carrying around strong emotions.  Come here, sit down, and take a rest with me.
 
@@ -90,7 +90,7 @@ God tells us: It is tiring being a mom, and it is tiring carrying around strong 
 
 &nbsp;  &nbsp; This line from Matthew is so well-known, and used in so many circumstances (because God CAN be all things to all people), but for me, right now, in the weeds of motherhood, it helps me.  It feels like I’ve been struggling to keep my head above water and someone throws me a lifeline.
 
-It feels like being seen.  It feels like being known.  It feels like someone looking you in the eye and saying, “I know exactly how you feel and it’s okay.”  What a relief.
+It feels like being seen.  It feels like being known.  It feels like someone looking you in the eye and saying, "I know exactly how you feel and it’s okay."  What a relief.
 
 
 

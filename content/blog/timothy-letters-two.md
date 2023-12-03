@@ -4,13 +4,13 @@ title: "Modeling a Relationship with God for Our Children"
 date: 2023-10-01
 draft: false
 description: "Timothy Letters: Part Two - We are our children's first example of what a relationship with God looks like."
-tags: ["motherhood", "love", "Christian Parenting", "Timothy Letters", "admitting when we are wrong", "example for my kids"]
+tags: [ "Motherhood", "Love", "Christian Parenting", "Timothy Letters", "Admitting When we are Wrong", "Example for my Kids" ]
 series: Timothy Letters
 thumbnail: /images/projects/timothy-letters/timothyLetterTwo.webp
 thumbDescription: A young boy holding mom/'s hand
 thumbAttributionText: Image from Bing Image Creator
 thumbAttributionLink: https://www.bing.com/images/create?FORM=GENILP
-summary: "Just as Paul was “foremost” in the early church - the one who was displaying his life as an example to others, as mothers, we are often foremost in our child’s life."
+summary: "Just as Paul was 'foremost' in the early church - the one who was displaying his life as an example to others, as mothers, we are often foremost in our child’s life."
 toc: true
 ---
 
@@ -19,7 +19,7 @@ toc: true
 
 [1 Timothy 1:16][verse]
 
-&nbsp; &nbsp; Just as Paul was “foremost” in the early church - the one who was displaying his life as an example to others, as mothers, we are often foremost in our child’s life. This is true in the early years and later on.  Even when they get older and start finding (and pushing for) more independence from us, our influence on them can not be overstated.
+&nbsp; &nbsp; Just as Paul was "foremost" in the early church - the one who was displaying his life as an example to others, as mothers, we are often foremost in our child’s life. This is true in the early years and later on.  Even when they get older and start finding (and pushing for) more independence from us, our influence on them can not be overstated.
 
 ## Modeling our Relationship with God
 

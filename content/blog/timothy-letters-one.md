@@ -4,7 +4,7 @@ title: "Don't Feel Qualified to be a Mom? You're in Good Company"
 date: 2023-07-02
 draft: false
 description: "Timothy Letters: Part One - God chooses people who feel unprepared, if you feel unprepared to be a good mother... that's okay."
-tags: ["motherhood", "love", "Christian Parenting", "Timothy Letters", "ready to be a mother", "example for my kids"]
+tags: [ "Motherhood", "love", "Christian Parenting", "Timothy Letters", "ready to be a mother", "example for my kids" ]
 series: Timothy Letters
 thumbnail: /images/projects/timothy-letters/timothyLetters1.webp
 thumbDescription: a baby bath
@@ -23,7 +23,7 @@ toc: true
 
 &nbsp; &nbsp; There’s nothing quite like motherhood to make you feel like you’re unprepared and unqualified for a job.  Some moms are completely thrown by the intensity of the infant stage, some struggle with toddlers (we *ALL* struggle with toddlers), some are mystified by the inner workings of a teenager’s mind.  
 
-&nbsp; &nbsp; Just when you think you have on stage figured out, they go through something else, or some tricky situation pops up, or hormones just go on a rampage, and you’re stuck wondering, “why did I think I could do this?”  Even with my third baby, I’ve found myself having days where I think, why is this so hard, and so overwhelming?
+&nbsp; &nbsp; Just when you think you have on stage figured out, they go through something else, or some tricky situation pops up, or hormones just go on a rampage, and you’re stuck wondering, "why did I think I could do this?"  Even with my third baby, I’ve found myself having days where I think, why is this so hard, and so overwhelming?
 
 ## Paul Felt the Same Way
 

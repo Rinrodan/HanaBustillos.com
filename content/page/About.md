@@ -3,10 +3,8 @@ title: "About"
 date: 2023-02-19T19:53:33+05:30
 draft: false
 author: "Hana Bustillos"
-tags:
-  - about
-  - motherhood
-  - toddler
+tags: [ "About", "Motherhood", "Toddler" ]
+
 thumbnail: /images/HanaAspen-Portrait.jpg
 description: ""
 toc: true
@@ -109,7 +107,7 @@ I am a stay-at-home mom of three (5, 3, and an infant).  I am a military spouse 
 ### Finding Further Help
 
 
-  I often write about feelings of guilt, parenting mistakes, and feeling like we’ve “messed up our kids.”  While I recognize that parenting and relationship choices vary widely, some choices are abuse.  If you and/or your children are being abused, or you are afraid you are an abuser, please call the National Domestic Violence hotline at 800-799-7233, or text START to 88788.  These are 24/7 hotlines where you can discuss your situation and get help.  No one deserves abuse.  If you are trying to break generational cycles of abuse, know that nothing changes if nothing changes, and the best thing you can do is reach out for help.
+  I often write about feelings of guilt, parenting mistakes, and feeling like we’ve "messed up our kids."  While I recognize that parenting and relationship choices vary widely, some choices are abuse.  If you and/or your children are being abused, or you are afraid you are an abuser, please call the National Domestic Violence hotline at 800-799-7233, or text START to 88788.  These are 24/7 hotlines where you can discuss your situation and get help.  No one deserves abuse.  If you are trying to break generational cycles of abuse, know that nothing changes if nothing changes, and the best thing you can do is reach out for help.
 
 
 <!-- This is commented out. -->

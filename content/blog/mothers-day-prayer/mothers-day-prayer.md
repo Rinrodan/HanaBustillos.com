@@ -4,9 +4,9 @@ author: Hana Bustillos
 date: 2023-02-21
 draft: false
 description: A prayer for all Moms
-tags: 
+tags: [ "Mothers Day", "Prayer" ]
 keywords: 
-thumbnail: /images/mothersday2.webp
+thumbnail: /blog/mothers-day-prayer/mothersday2.webp
 thumbDescription: Mother with a tattoo holding her newborn
 thumbAttributionText: Photo by Anna Shvets
 thumbAttributionLink: https://www.pexels.com/photo/crop-mother-with-tattoo-patting-head-of-newborn-while-hugging-toddler-in-room-3845262/
@@ -20,7 +20,7 @@ summary: "This pastoral prayer covers a lot of situations."
 I wrote this pastoral prayer for a mother’s day service when I was a working pastor.  Like pretty much anything I ever wrote that was specifically about women or mothers, I got a lot of feedback about it.  Several people in the church have remarked to me (even years later) that this prayer specifically made them feel seen, heard, or loved.  I have added a little to it and edited it because it was originally meant for worship service purposes, but it mostly remains the same.
 
 
->**Content Warning:**  I tried to address all the different experiences we can have as mothers and children rather than just focus on the “mother as feminine ideal” that gets promoted a lot, especially around Mother’s Day.  This prayer mentions child abuse, strained child/parent relationships, child death, miscarriage, and infertility.
+>**Content Warning:**  I tried to address all the different experiences we can have as mothers and children rather than just focus on the "mother as feminine ideal" that gets promoted a lot, especially around Mother’s Day.  This prayer mentions child abuse, strained child/parent relationships, child death, miscarriage, and infertility.
 
 
 ---

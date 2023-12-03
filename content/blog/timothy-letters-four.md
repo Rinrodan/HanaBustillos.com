@@ -4,7 +4,7 @@ title: "God Did Not Give us a Spirit of Cowardice"
 date: 2023-11-10
 draft: false
 description: "Timothy Letters: Part Four - God Did Not Give us a Spirit of Cowardice"
-tags: ["motherhood", "love", "Christian Parenting", "Timothy Letters", "example for my kids",   ]
+tags: [ "Motherhood", "love", "Christian Parenting", "Timothy Letters", "example for my kids" ]
 series: Timothy Letters
 thumbnail: /images/projects/timothy-letters/timothyLettersFour.webp
 thumbDescription: A lion cub looking up at mom
@@ -23,13 +23,13 @@ toc: true
 
 ## Fears of Being a Bad Mom
 
-&nbsp; &nbsp; I’m only (roughly) six years into the gig and I feel like I’ve had enough feelings of fear and inadequacy for a lifetime.  Motherhood has served me many hot dishes of “what in the world is *this* and how can I possibly handle it?”  I have felt inadequate, bewildered, confused, and lost.  And I know there is much, much more to come.
+&nbsp; &nbsp; I’m only (roughly) six years into the gig and I feel like I’ve had enough feelings of fear and inadequacy for a lifetime.  Motherhood has served me many hot dishes of "what in the world is *this* and how can I possibly handle it?"  I have felt inadequate, bewildered, confused, and lost.  And I know there is much, much more to come.
 
 &nbsp; &nbsp; When these scary situations pop up, we worry both about the present and the future.  How do I handle this situation?  What do I even do?  Who can I ask for help?  What if I didn’t handle it right?  What if they feel like now they can’t talk to me?  What if they’re traumatized?  Did I ruin their childhood?
 
 These two little verses from 2 Timothy give us so much to help us confront these fears.
 
-&nbsp; &nbsp; In the first half, just as Paul is reminding Timothy that he has gifts, he is also telling Timothy to make sure to “rekindle them” through the laying on of hands.  Whether that looks like an actual laying on of hands or not, it is a reminder that: **1)** You have God-given gifts and those gifts can be applied to motherhood, and **2)** It is important for you to seek out people, places, communities, and situations where you feel your gifts being rekindled and restored.  That can be church, for sure, but it can also be pursuing a hobby, having coffee with a friend, time with your spouse or partner, quiet prayer time, or whatever makes you feel rejuvenated.
+&nbsp; &nbsp; In the first half, just as Paul is reminding Timothy that he has gifts, he is also telling Timothy to make sure to "rekindle them" through the laying on of hands.  Whether that looks like an actual laying on of hands or not, it is a reminder that: **1)** You have God-given gifts and those gifts can be applied to motherhood, and **2)** It is important for you to seek out people, places, communities, and situations where you feel your gifts being rekindled and restored.  That can be church, for sure, but it can also be pursuing a hobby, having coffee with a friend, time with your spouse or partner, quiet prayer time, or whatever makes you feel rejuvenated.
 
 ## You Can Do This
 

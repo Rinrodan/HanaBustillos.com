@@ -3,7 +3,7 @@ title: "Help, Thanks, Wow"
 date: 2023-2-21
 draft: false
 author: Hana Bustillos
-tags: ["prayer", "overcome evil with good","Anne Lamot"]
+tags: [ "Prayer", "Overcome Evil with Good","Anne Lamot" ]
 series: Timothy Letters
 thumbnail: /images/romans12bed.webp
 description: A Romans 12 prayer
@@ -11,15 +11,15 @@ thumbDescription: mother and daughter usnig a laptop and drawing
 thumbAttributionText: Photo by Tatiana Syrikova from Pexels
 thumbAttributionLink: https://www.pexels.com/photo/crop-mother-and-daughter-using-laptop-and-drawing-3975640/
 toc: true
-summary: "I call this a “Help, Thanks, Wow” prayer, based on Anne Lamot’s Book of the same name, which posits that those are the three essential prayers."
+summary: "I call this a 'Help, Thanks, Wow' prayer, based on Anne Lamot’s Book of the same name, which posits that those are the three essential prayers."
 ---
 
 
-&nbsp;&nbsp; I call this a “Help, Thanks, Wow” prayer, based on Anne Lamot’s Book of the same name, which posits that those are the three essential prayers.  Romans 12 is so rich in reminders of both God’s unconditional love and God’s will for us to always strive for better.  But - not better as the world sees it.  Not better as in, you are only a perfect mother if you (fill in the blank with whatever instagram is telling you - have an unmedicated birth, discipline a certain way, only eat certain foods, lose all the baby weight in a prescribed amount of time, whatever).  We are not to be “conformed to this age, but be transformed” by following what God wants for us.  And then it lays it out -  don’t think of yourself as better, recognize others’ gifts, love one another, show each other honor, be patient, pray, be hospitable, be compassionate, bless others and don’t worry about vengeance.
+&nbsp;&nbsp; I call this a "Help, Thanks, Wow" prayer, based on Anne Lamot’s Book of the same name, which posits that those are the three essential prayers.  Romans 12 is so rich in reminders of both God’s unconditional love and God’s will for us to always strive for better.  But - not better as the world sees it.  Not better as in, you are only a perfect mother if you (fill in the blank with whatever instagram is telling you - have an unmedicated birth, discipline a certain way, only eat certain foods, lose all the baby weight in a prescribed amount of time, whatever).  We are not to be "conformed to this age, but be transformed" by following what God wants for us.  And then it lays it out -  don’t think of yourself as better, recognize others’ gifts, love one another, show each other honor, be patient, pray, be hospitable, be compassionate, bless others and don’t worry about vengeance.
 
 &nbsp;&nbsp;It’s a lot, but it’s also encouraging.  Instead of striving for whatever our image of perfection is, this passage invites us to dig into the simple things in our lives, to invest in close relationships, to seek good in others and do good in our families and communities.
 
-&nbsp;&nbsp; I invite you to read the passage (it is the chapter in its entirety), and then the prayer I wrote based on these rich words.  Each stanza of the prayers follows the format “help, thanks, wow” - Asking God for help, thanking God for something, and then an “ascription” - naming or recognizing one of God’s qualities or attributes.  
+&nbsp;&nbsp; I invite you to read the passage (it is the chapter in its entirety), and then the prayer I wrote based on these rich words.  Each stanza of the prayers follows the format "help, thanks, wow" - Asking God for help, thanking God for something, and then an "ascription" - naming or recognizing one of God’s qualities or attributes.  
 
 ### Romans 12 
 
@@ -29,7 +29,7 @@ summary: "I call this a “Help, Thanks, Wow” prayer, based on Anne Lamot’s 
 >
 > &nbsp;&nbsp; Let love be genuine; hate what is evil; hold fast to what is good; love one another with mutual affection; outdo one another in showing honor.  Do not lag in zeal; be ardent in spirit; serve the Lord.  Rejoice in hope; be patient in affliction; persevere in prayer.  Contribute to the needs of the saints; pursue hospitality to strangers.
 >
-> &nbsp;&nbsp; Bless those who persecute you; bless and do not curse them.  Rejoice with those who rejoice; weep with those who weep.  Live in harmony with one another; do not be arrogant, but associate with the lowly;[b] do not claim to be wiser than you are.  Do not repay anyone evil for evil, but take thought for what is noble in the sight of all.  If it is possible, so far as it depends on you, live peaceably with all.  Beloved, never avenge yourselves, but leave room for the wrath of God, for it is written, “Vengeance is mine; I will repay, says the Lord.”  Instead, “if your enemies are hungry, feed them; if they are thirsty, give them something to drink, for by doing this you will heap burning coals on their heads.”  Do not be overcome by evil, but overcome evil with good.  [(Romans 12 - NRSVUE)][Romans 12 - NRSVUE]
+> &nbsp;&nbsp; Bless those who persecute you; bless and do not curse them.  Rejoice with those who rejoice; weep with those who weep.  Live in harmony with one another; do not be arrogant, but associate with the lowly;[b] do not claim to be wiser than you are.  Do not repay anyone evil for evil, but take thought for what is noble in the sight of all.  If it is possible, so far as it depends on you, live peaceably with all.  Beloved, never avenge yourselves, but leave room for the wrath of God, for it is written, "Vengeance is mine; I will repay, says the Lord."  Instead, "if your enemies are hungry, feed them; if they are thirsty, give them something to drink, for by doing this you will heap burning coals on their heads."  Do not be overcome by evil, but overcome evil with good.  [(Romans 12 - NRSVUE)][Romans 12 - NRSVUE]
 
 God, in your mercy, hear our prayer.
 

@@ -4,7 +4,7 @@ title: "Wooden Spoon Motherhood: Finding Joy in the Simple and Functional"
 date: 2023-11-28
 draft: false
 description: "Timothy Letters 5 - Paul tells us to be that dependable and capable wooden spoon"
-tags: ["motherhood", "love", "Christian Parenting", "Timothy Letters", "Wooden Spoon Motherhood" ]
+tags: [ "Motherhood", "love", "Christian Parenting", "Timothy Letters", "Wooden Spoon Motherhood" ]
 series: Timothy Letters
 thumbnail: /images/projects/timothy-letters/timothyLettersFive.webp
 thumbDescription: A charcoal drawing of a woman stirring a mixing bowl using a wooden spoon
@@ -22,7 +22,7 @@ summary: "Motherhood feels like we’re always using the utensils made from wood
 
 They are functional, but they’re not particularly beautiful.  They’re not ugly, just utilitarian.
 
-&nbsp;&nbsp;  A lot of times, motherhood feels that way.  Functional but not beautiful.  We’re making it work, but it’s not necessarily “aesthetic.”  Which, in the age of Instagram and Tiktok and influencers, can be a bit of a sore spot for a lot of moms who are already stressed about everything else.  We just don’t have time and energy to make ourselves, our homes, our everything look perfect (and there’s a lot to unpack about why that’s our job anyways, but I’ll leave that for a later date).
+&nbsp;&nbsp;  A lot of times, motherhood feels that way.  Functional but not beautiful.  We’re making it work, but it’s not necessarily "aesthetic."  Which, in the age of Instagram and Tiktok and influencers, can be a bit of a sore spot for a lot of moms who are already stressed about everything else.  We just don’t have time and energy to make ourselves, our homes, our everything look perfect (and there’s a lot to unpack about why that’s our job anyways, but I’ll leave that for a later date).
 
 &nbsp;&nbsp;  Motherhood feels like we’re always using the utensils made from wood and clay, the ordinary, everyday utensils that we don’t mind scuffing up.  We may turn to the same tools all the time - wearing the same basic outfit, or serving the same few meals.  As long as it works for us, that’s the most important thing.  But we may long for the days when things felt a little less chaotic and a little more polished.  A little less wood and clay and a little more gold and silver.
 

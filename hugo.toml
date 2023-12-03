@@ -39,6 +39,8 @@ DefaultContentLanguageInSubdir = false
   # Enable the darkmode toggle in header
   darkModeToggle = true
   
+contentDir = "content/blog/"
+
   # Enable search in header
   enableSearch = true
 

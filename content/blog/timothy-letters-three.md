@@ -4,7 +4,7 @@ title: "Spiritual Exercise and the Humbling Experience of Motherhood"
 date: 2023-10-23
 draft: false
 description: "Timothy Letters: Part Three - As moms we need to take care of both our physical AND spiritual fitness."
-tags: ["motherhood", "love", "Christian Parenting", "Timothy Letters", "spiritual fitness", "example for my kids"]
+tags: [ "Motherhood", "love", "Christian Parenting", "Timothy Letters", "spiritual fitness", "example for my kids" ]
 series: Timothy Letters
 thumbnail: /images/projects/timothy-letters/timothyLettersThree.webp
 thumbDescription: A woman staring up at a rock climbing wall
@@ -19,11 +19,11 @@ toc: true
 
 [1 Timothy 4:7-10][verse]
 
-&nbsp; &nbsp; I’ve written about practicing your faith around your children, and how it is such a gift to be able to model what a real-life relationship with God looks like to them.  This passage follows in the same vein.  It reminds us to “train” ourselves in godliness - to maintain spiritual fitness.
+&nbsp; &nbsp; I’ve written about practicing your faith around your children, and how it is such a gift to be able to model what a real-life relationship with God looks like to them.  This passage follows in the same vein.  It reminds us to "train" ourselves in godliness - to maintain spiritual fitness.
 
 ## Let go of the Negative
 
-&nbsp; &nbsp; Part of “spiritual training” is getting rid of the negative things in your life - having “nothing to do with profane and foolish tales.”  Since becoming a mom, I’ve become a lot stricter with what I do and don’t let into my life.  Social media is a big one for a lot of us - restricting how much we use it and how much we let it impact us.  It could also be anything as simple as choosing to stop watching a tv show, or as complicated as going no contact with a family member.
+&nbsp; &nbsp; Part of "spiritual training" is getting rid of the negative things in your life - having "nothing to do with profane and foolish tales."  Since becoming a mom, I’ve become a lot stricter with what I do and don’t let into my life.  Social media is a big one for a lot of us - restricting how much we use it and how much we let it impact us.  It could also be anything as simple as choosing to stop watching a tv show, or as complicated as going no contact with a family member.
 
 ## Keep What Builds
 
