@@ -42,6 +42,7 @@ toc: true
 
 |    | [Blog Series: Timothy Letters][series]          |
 |:-- |:------------------------------------------------------------------ |
+| 5  | [Wooden Spoon Motherhood: Finding Joy in the Simple and Functional][timL5] |
 | 4  | [God Did Not Give us a Spirit of Cowardice][timL4]         |
 | 3  |  {{<param title>}}  &nbsp; &nbsp; ★                               |
 | 2  | [Modeling a Relationship with God for Our Children][timL2]         |
@@ -50,6 +51,7 @@ toc: true
 
 [verse]: https://www.biblegateway.com/passage/?search=1%20Timothy%204%3A7-10&version=NRSVA
 [series]: /tags/timothy-letters/
+[TIML5]: /blog/timothy-letters-five/
 [TIML4]: /blog/timothy-letters-four/
 [TIML2]: /blog/timothy-letters-two/
 [TIML1]: /blog/timothy-letters-one/

@@ -40,10 +40,18 @@ toc: true
 
 |    | [Blog Series: Timothy Letters][seriesTimothyLetters]          |
 |:-- |:------------------------------------------------------------- |
+| 5  | [Wooden Spoon Motherhood: Finding Joy in the Simple and Functional][timL5] |
+| 4  | [God Did Not Give us a Spirit of Cowardice][timL4]         |
+| 3  | [Spiritual Exercise and the Humbling Experience of Motherhood][timL3] |
 | 2  | [Modeling a Relationship with God for Our Children][timL2]    |
 | 1  | {{< param title>}}  &nbsp; &nbsp; ★|
 
 [verse]: https://www.biblegateway.com/passage/?search=1%20Timothy%201%3A12-13&version=NRSVA
 
 [seriesTimothyLetters]: /tags/timothy-letters/
+
+[TIML5]: /blog/timothy-letters-five/
+[TIML4]: /blog/timothy-letters-four/
+[TIML3]: /blog/timothy-letters-three/
 [TIML2]: /blog/timothy-letters-two/
+

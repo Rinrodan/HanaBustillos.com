@@ -34,6 +34,8 @@ toc: true
 
 |    | [Blog Series: Timothy Letters][seriesTimothyLetters]          |
 |:-- |:------------------------------------------------------------------ |
+| 5  | [Wooden Spoon Motherhood: Finding Joy in the Simple and Functional][timL5] |
+| 4  | [God Did Not Give us a Spirit of Cowardice][timL4]         |
 | 3  | [Spiritual Exercise and the Humbling Experience of Motherhood][timL3] |
 | 2  | {{< param title>}} &nbsp; &nbsp; ★  |
 | 1  | [Don\'t Feel Qualified to be a Mom You\'re in Good Company][timL1] |
@@ -43,6 +45,8 @@ toc: true
 
 [seriesTimothyLetters]: /tags/timothy-letters/
 
+[TIML5]: /blog/timothy-letters-five/
+[TIML4]: /blog/timothy-letters-four/
 [TIML3]: /blog/timothy-letters-three/
 [TIML1]: /blog/timothy-letters-one/
 
