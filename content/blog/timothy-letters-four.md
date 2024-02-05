@@ -5,8 +5,7 @@ date: 2023-11-10
 draft: false
 description: "Timothy Letters: Part Four - God Did Not Give us a Spirit of Cowardice"
 tags: [ "Motherhood", "love", "Christian Parenting", "Timothy Letters", "example for my kids" ]
-series: Timothy Letters
-thumbnail: /images/projects/timothy-letters/timothyLettersFour.webp
+thumbnail: /blog/images/timothyLettersFour.webp
 thumbDescription: A lion cub looking up at mom
 thumbAttributionText: Photo by Frans van Heerden
 thumbAttributionLink: https://www.pexels.com/photo/a-lioness-and-her-cubs-10625024/

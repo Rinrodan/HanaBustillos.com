@@ -5,7 +5,7 @@ date: 2023-05-05
 draft: false
 description: "Seeing the world through a child’s eyes"
 tags: [ "Empathy", "Motherhood", "God’s Endless Patience" ]
-thumbnail: /images/mother-hugging-daughter.webp
+thumbnail: /blog/images/mother-hugging-daughter.webp
 thumbDescription: A mother hugging her small daughter
 thumbAttributionText: Photo by Lawilson Feitosa
 thumbAttributionLink: https://www.pexels.com/photo/mother-hugging-daughter-15971620/

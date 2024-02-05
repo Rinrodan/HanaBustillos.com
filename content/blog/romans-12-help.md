@@ -4,8 +4,7 @@ date: 2023-2-21
 draft: false
 author: Hana Bustillos
 tags: [ "Prayer", "Overcome Evil with Good","Anne Lamot" ]
-series: Timothy Letters
-thumbnail: /images/romans12bed.webp
+thumbnail: /blog/images/romans12bed.webp
 description: A Romans 12 prayer
 thumbDescription: mother and daughter usnig a laptop and drawing
 thumbAttributionText: Photo by Tatiana Syrikova from Pexels

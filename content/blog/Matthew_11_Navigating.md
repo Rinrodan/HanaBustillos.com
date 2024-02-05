@@ -5,7 +5,7 @@ date: 2023-09-01
 draft: false
 description: "Explore the feelings of resentment that often accompany the transition to motherhood and why it’s essential to address them openly."
 tags: [ "Matthew", "Sacrifice",  "Motherhood", "Christian Parenting", "Navigating Motherhood" ]
-thumbnail: /images/matthewElevenResentment.webp
+thumbnail: /blog/images/matthew-eleven-navigating/matthewElevenResentment.webp
 thumbDescription: A barefoot woman in a dress standing outside looking detatched
 thumbAttributionText: Photo by sergio souza
 thumbAttributionLink: https://www.pexels.com/photo/woman-in-green-dress-standing-outdoors-2973832/
@@ -25,7 +25,7 @@ toc: true
 She promptly started crying and gave me a huge hug.
 
 
-{{< figure src="/images/matthewElevenUnderstand.webp" alt="listening woman" attr="Photo by Alexander Suhorucov" attrlink="https://www.pexels.com/photo/asian-woman-discussing-business-plan-with-diverse-colleagues-6457537/" width="100%" height="auto" >}}
+{{< figure src="/blog/images/matthew-eleven-navigating/matthewElevenUnderstand.webp" alt="listening woman" attr="Photo by Alexander Suhorucov" attrlink="https://www.pexels.com/photo/asian-woman-discussing-business-plan-with-diverse-colleagues-6457537/" width="100%" height="auto" >}}
 
 No one else had ever admitted that to her.
 
@@ -52,7 +52,7 @@ I was hesitant to say it because I was afraid she would react with disgust or di
 
 &nbsp;  &nbsp; And that… is having kids.  That’s the reality.  That’s the nitty gritty, day-to-day of it.  That is the work of parenting.  Having kids means putting aside not just your own wants, but your own needs - the things you HAVE TO HAVE -  and pushing them into smaller time frames and smaller budgets - all of the time.  There is no break.  Even as your kids get older and more independent, their needs also become more complex - more mentally and emotionally exhausting as opposed to the physical exhaustion that defines the early years.  As much as I love the conversation about moms not having to be self-sacrificial (and hear me when I say that is a worthy and important conversation), some aspects of parenting are simply, in their very nature, sacrificial.  You surrender time, money, your physical body (whether or not you have biological children and/or breastfeed), your mental and emotional energy, in order to meet their needs.
 
-{{< figure src="/images/matthewElevenTired.webp" alt="tired woman" attr="Photo by Marcelo Chagas" attrlink="https://www.pexels.com/photo/woman-in-orange-tank-top-and-blue-denim-jeans-sitting-on-floor-3602608/" width="100%" height="auto" >}}
+{{< figure src="/blog/images/matthew-eleven-navigating/matthewElevenTired.webp" alt="tired woman" attr="Photo by Marcelo Chagas" attrlink="https://www.pexels.com/photo/woman-in-orange-tank-top-and-blue-denim-jeans-sitting-on-floor-3602608/" width="100%" height="auto" >}}
 
 &nbsp;  &nbsp; There is, of course, a line you can cross where this becomes unhealthy.  It’s pretty normal, I think, to have a few periods of time where you feel like you are really and truly at your absolute limit - usually when everyone is  sick, or you’re incapacitated in some way, or there is an emergency in your extended family.  And no matter how sick or tired you are, you have to push through and get the kids taken care of.  Many of us probably experienced some of our hardest parenting days during early quarantine, when we lost our normal schedules and periods of rest, and we literally could not ask for outside help.  If that level of stress and exhaustion is your everyday, though, I hope you are able to figure out a way for you to take a breather.
 
@@ -72,7 +72,7 @@ God tells us: "Come to me all you who are weary and burdened, and I will give yo
 
 God tells us: It is tiring being a mom, and it is tiring carrying around strong emotions.  Come here, sit down, and take a rest with me.
 
-{{< figure src="/images/matthewElevenCantSay.webp" alt="pink book with the titile of Things I can't say out loud" attr="Photo by Ann H" attrlink="https://www.pexels.com/photo/things-i-can-t-say-out-load-book-on-green-textile-1930381/" width="100%" height="auto" >}}
+{{< figure src="/blog/images/matthew-eleven-navigating/matthewElevenCantSay.webp" alt="pink book with the titile of Things I can't say out loud" attr="Photo by Ann H" attrlink="https://www.pexels.com/photo/things-i-can-t-say-out-load-book-on-green-textile-1930381/" width="100%" height="auto" >}}
 
 ## You Can’t Say That if You’re a Mom
 

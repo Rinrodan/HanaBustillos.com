@@ -5,7 +5,7 @@ date: 2023-04-25
 draft: false
 description: "A series of lighthearted observations of the joyous moments that make it all worth it. "
 tags: ["lighthearted", "happy mom", "Joys of Motherhood"]
-thumbnail: /images/giraffe.webp
+thumbnail: /blog/images/giraffe.webp
 thumbDescription: photo of a giraffe
 thumbAttributionText: Photo by energepic.com from Pexels
 thumbAttributionLink: https://www.pexels.com/photo/person-feeding-giraffe-3839115/

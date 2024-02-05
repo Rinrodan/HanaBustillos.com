@@ -6,7 +6,7 @@ draft: false
 description: "from the love of God"
 tags: [ "Romans", "Bible Verses", "Love"]
 
-thumbnail: /images/romans38sunset.webp
+thumbnail: /blog/images/romans38sunset.webp
 thumbDescription: a woman standing on the edge of a cliff at sunset
 thumbAttributionText: Photo by Tobias Bjørkli from Pexels
 thumbAttributionLink: https://www.pexels.com/photo/woman-standing-on-cliff-beside-trees-during-sunset-2340166/

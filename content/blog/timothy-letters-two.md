@@ -5,8 +5,7 @@ date: 2023-10-01
 draft: false
 description: "Timothy Letters: Part Two - We are our children's first example of what a relationship with God looks like."
 tags: [ "Motherhood", "Love", "Christian Parenting", "Timothy Letters", "Admitting When we are Wrong", "Example for my Kids" ]
-series: Timothy Letters
-thumbnail: /images/projects/timothy-letters/timothyLetterTwo.webp
+thumbnail: /blog/images/timothyLetterTwo.webp
 thumbDescription: A young boy holding mom/'s hand
 thumbAttributionText: Image from Bing Image Creator
 thumbAttributionLink: https://www.bing.com/images/create?FORM=GENILP
