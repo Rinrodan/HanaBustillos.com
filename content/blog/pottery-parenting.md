@@ -7,7 +7,7 @@ description: "Jesus take the pottery WHEEL!"
 tags: [ "Motherhood", "love", "Christian Parenting", "Timothy Letters", "example for my kids", "Mom Guilt" ]
 thumbnail: /blog/images/isaiah45-clay.webp
 thumbDescription: "A woman shaping clay on a pottery wheel"
-thumbAttributionText: "Photo by  Anastasia  Shuraeva from Pexels:" 
+thumbAttributionText: Photo by  Anastasia  Shuraeva from Pexels
 thumbAttributionLink: https://www.pexels.com/photo/woman-shaping-a-clay-on-a-pottery-wheel-5566928/
 summary: "Our kids need us to respect their individuality and autonomy, while also helping to shape them. ⁤⁤We may feel fear and guilt since we don't have complete control over the outcome. ⁤⁤We can do our best and trust in God's grace and wisdom to guide us and our children through life."
 toc: true

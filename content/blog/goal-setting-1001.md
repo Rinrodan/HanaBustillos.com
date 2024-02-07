@@ -7,7 +7,7 @@ description: "A busy mom's love of goal setting and the need for more flexibilit
 tags: [ "Motherhood", "love", "Christian Parenting", "Goal Setting", "Changing Priorities", "101/1001", "101 in 1001" ]  
 thumbnail: /blog/images/goal-setting-1001-reflection-paper.webp  
 thumbDescription: "a piece of paper with empty goal tables for the year"  
-thumbAttributionText: "Photo by The Sunday Collection"  
+thumbAttributionText: Photo by The Sunday Collection
 thumbAttributionLink: "https://www.pexels.com/photo/empty-tables-with-goals-for-the-year-16037850/"  
 summary: "Reflections on my experience with the 101 in 1001 goal-setting format. I found that the format was not realistic for my life as a mom of three small children with limited free time. As a busy mom, I struggled to find time for myself amidst child care, homeschooling, laundry, grocery shopping, cleaning, and other daily tasks. I'm now on the hunt for a more flexible goal-setting method that works better for my busy schedule." 
 ---
