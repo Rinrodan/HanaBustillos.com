@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on HanaBustillos.com</title>
+    <link>hanabustillos.com/page/</link>
+    <description>Recent content in Pages on HanaBustillos.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 19 Feb 2023 19:53:33 +0530</lastBuildDate><atom:link href="hanabustillos.com/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>hanabustillos.com/page/about/</link>
+      <pubDate>Sun, 19 Feb 2023 19:53:33 +0530</pubDate>
+      
+      <guid>hanabustillos.com/page/about/</guid>
+      <description>This is a blog for overwhelmed moms.
+Moms who feel like they have made mistakes.
+Moms who feel like they don’t know what they’re doing.
+Moms who think they have failed their kids.
+ This blog is a place for you to find rest, comfort, and solidarity. A place where you can get in touch with God, yourself, and your own wonderful, flawed humanity - as a mom and as a person.</description>
+    </item>
+    
+    <item>
+      <title>Blog Series</title>
+      <link>hanabustillos.com/page/blog-series/</link>
+      <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>hanabustillos.com/page/blog-series/</guid>
+      <description> Timothy Letters  A series on motherhood through the letters of Timothy written by the Apostle Paul
+ </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,8 +5,7 @@ date: {{ .Date }}
 draft: true
 description: ""
 tags: [ "", "" ]
-series: ""
-thumbnail: /images/
+thumbnail: /blog/images/
 thumbDescription: ""
 thumbAttributionText: ""
 thumbAttributionLink: 
