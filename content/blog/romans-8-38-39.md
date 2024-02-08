@@ -37,10 +37,10 @@ If you are a mother who experiences anger, frustration, grief, loneliness, who f
 
 ## Nothing Can Separate Us
 
->"Mistakes, challenges, and failings will not separate you from the God who loves you no matter what"
 
-&nbsp;&nbsp;For I am convinced that neither death, nor life, nor angels, nor rulers, nor things present, nor things to come, nor powers, nor height, nor depth, nor anything else in all creation will be able to separate us from the love of God in Christ Jesus our Lord.
-Romans 8:38-39
+> &nbsp;&nbsp;For I am convinced that neither death, nor life, nor angels, nor rulers, nor things present, nor things to come, nor powers, nor height, nor depth, nor anything else in all creation will be able to separate us from the love of God in Christ Jesus our Lord.
+
+[Romans 8:38-39][verse]
 
 &nbsp;&nbsp;For many Christians, this is the crux of the Gospel message.  It’s the heart of it all, the reminder that no matter what we do or think, God still loves us.  It’s heady and heavy at the same time.  Both freeing and restraining.  Encouraging but daunting.
 
@@ -51,3 +51,5 @@ Romans 8:38-39
 &nbsp;&nbsp;This passage from Romans reminds us that, no matter our choices as mothers, which are as varied and diverse as mothers themselves, there is nothing we can do that will separate us from God.  Just like all other parts of our identities - our identities, our backgrounds, our careers, our educations - all the parts of us that make us who we are, there isn’t anything we can say, think, or do, that God will not love us through.  There is no choice we can make, no path we can take, where God does not meet us, where God does not walk with us, where God does not hold us and say, "Okay, let’s try again.  I believe you can do this."
 
 &nbsp;&nbsp;If you are a mother who experiences anger, frustration, grief, loneliness, who feels she has failed her children in any capacity - God’s love is for you.  God’s love is with you.  Even your own heart, soul, mistakes, challenges, and failings will not separate you from the God who loves you no matter what.
+
+[verse]: https://www.biblegateway.com/passage/?search=Romans%208%3A38-39&version=NRSVUE

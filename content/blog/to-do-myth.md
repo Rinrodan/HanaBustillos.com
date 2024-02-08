@@ -1,7 +1,7 @@
 ---
 author: Hana Bustillos
 title:  "The Myth of the To-Do List: How to Stop Measuring God’s Love by YOUR Success"
-date: 2024-02-15
+date: 2024-02-24
 draft: false
 description: "Parenting is tough, failing a to-do list hurts, but we have God's grace. "
 tags: ["motherhood", "love", "Christian Parenting","To Do Lists", “to-do" ]
