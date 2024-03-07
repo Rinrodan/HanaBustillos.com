@@ -3,7 +3,7 @@ author: Hana Bustillos
 title: "Wooden Spoon Motherhood: Finding Joy in the Simple and Functional"
 date: 2023-11-28
 draft: false
-description: "Timothy Letters 5 - Paul tells us to be that dependable and capable wooden spoon"
+description: "Timothy Letters: Part Five - Paul tells us to be that dependable and capable wooden spoon"
 tags: [ "Motherhood", "love", "Christian Parenting", "Timothy Letters", "Wooden Spoon Motherhood" ]
 thumbnail: /blog/images/timothyLettersFive.webp
 thumbDescription: A charcoal drawing of a woman stirring a mixing bowl using a wooden spoon
@@ -30,6 +30,7 @@ They are functional, but they’re not particularly beautiful.  They’re not u
 
 |    | [Blog Series: Timothy Letters][seriesTimothyLetters]                  |
 |:-- |:------------------------------------------------------------------    |
+| 6  | [From Tea to Truth - Timothy’s Guide to Gossip][timL6] |
 | 5  |  {{<param title>}}  &nbsp; &nbsp; ★                                  |
 | 4  | [God Did Not Give us a Spirit of Cowardice][timL4]                   |
 | 3  | [Spiritual Exercise and the Humbling Experience of Motherhood][timL3] |
@@ -40,6 +41,8 @@ They are functional, but they’re not particularly beautiful.  They’re not u
 
 [verse]: "https://www.biblegateway.com/passage/?search=2%20Timothy%202:20-21&version=NRSVA"
 [seriesTimothyLetters]: /tags/timothy-letters/
+
+[TIML6]: /blog/timothy-letters-six/
 [TIML4]: /blog/timothy-letters-four/
 [TIML3]: /blog/timothy-letters-three/
 [TIML2]: /blog/timothy-letters-two/

@@ -42,6 +42,7 @@ It does mean that you are gifted by God in unique and wonderful ways.  You can 
 
 |    | [Blog Series: Timothy Letters][seriesTimothyLetters]                  |
 |:-- |:------------------------------------------------------------------    |
+| 6  | [From Tea to Truth - Timothy’s Guide to Gossip][timL6] |
 | 5  | [Wooden Spoon Motherhood: Finding Joy in the Simple and Functional][timL5] |
 | 4  |  {{<param title>}}  &nbsp; &nbsp; ★                                  |
 | 3  | [Spiritual Exercise and the Humbling Experience of Motherhood][timL3] |
@@ -52,6 +53,7 @@ It does mean that you are gifted by God in unique and wonderful ways.  You can 
 [verse]: https://www.biblegateway.com/passage/?search=2+Timothy+1%3A6-7&version=NRSVA
 [seriesTimothyLetters]: /tags/timothy-letters/
 
+[TIML6]: /blog/timothy-letters-six/
 [TIML5]: /blog/timothy-letters-five/
 [TIML3]: /blog/timothy-letters-three/
 [TIML2]: /blog/timothy-letters-two/

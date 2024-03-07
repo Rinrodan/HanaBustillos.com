@@ -4,7 +4,7 @@ title: "The Clay and the Potter: What Isaiah 45 Teaches Us About Parenting"
 date: 2024-02-02
 draft: false
 description: "Jesus take the pottery WHEEL!"
-tags: [ "Motherhood", "love", "Christian Parenting", "Timothy Letters", "example for my kids", "Mom Guilt" ]
+tags: [ "Motherhood", "love", "Christian Parenting", "example for my kids", "Mom Guilt" ]
 thumbnail: /blog/images/isaiah45-clay.webp
 thumbDescription: "A woman shaping clay on a pottery wheel"
 thumbAttributionText: Photo by  Anastasia  Shuraeva from Pexels

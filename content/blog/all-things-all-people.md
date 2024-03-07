@@ -4,7 +4,7 @@ title: "Raising Children in God’s Care: All Things to All People"
 date: 2024-03-05
 draft: false
 description: "The imperfection of things and people, and our reliance on God’s perfection"
-tags: [ "Motherhood", "love", "Christian Parenting", "Timothy Letters", "example for my kids", “Mom Guilt” ]
+tags: [ "Motherhood", "love", "Christian Parenting", "example for my kids", “Mom Guilt” ]
 thumbnail: /blog/images/all-things-cliff.webp
 thumbDescription: “a woman sitting on the edge of a cliff at dusk”
 thumbAttributionText: Photo by Riccardo

@@ -42,6 +42,7 @@ toc: true
 
 |    | [Blog Series: Timothy Letters][series]          |
 |:-- |:------------------------------------------------------------------ |
+| 6  | [From Tea to Truth - Timothy’s Guide to Gossip][timL6] |
 | 5  | [Wooden Spoon Motherhood: Finding Joy in the Simple and Functional][timL5] |
 | 4  | [God Did Not Give us a Spirit of Cowardice][timL4]         |
 | 3  |  {{<param title>}}  &nbsp; &nbsp; ★                               |
@@ -51,6 +52,7 @@ toc: true
 
 [verse]: https://www.biblegateway.com/passage/?search=1%20Timothy%204%3A7-10&version=NRSVA
 [series]: /tags/timothy-letters/
+[TIML6]: /blog/timothy-letters-six/
 [TIML5]: /blog/timothy-letters-five/
 [TIML4]: /blog/timothy-letters-four/
 [TIML2]: /blog/timothy-letters-two/

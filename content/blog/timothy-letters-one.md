@@ -40,6 +40,7 @@ toc: true
 
 |    | [Blog Series: Timothy Letters][seriesTimothyLetters]          |
 |:-- |:------------------------------------------------------------- |
+| 6  | [From Tea to Truth - Timothy’s Guide to Gossip][timL6] |
 | 5  | [Wooden Spoon Motherhood: Finding Joy in the Simple and Functional][timL5] |
 | 4  | [God Did Not Give us a Spirit of Cowardice][timL4]         |
 | 3  | [Spiritual Exercise and the Humbling Experience of Motherhood][timL3] |
@@ -50,6 +51,7 @@ toc: true
 
 [seriesTimothyLetters]: /tags/timothy-letters/
 
+[TIML6]: /blog/timothy-letters-six/
 [TIML5]: /blog/timothy-letters-five/
 [TIML4]: /blog/timothy-letters-four/
 [TIML3]: /blog/timothy-letters-three/
